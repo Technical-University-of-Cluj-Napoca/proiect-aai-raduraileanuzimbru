@@ -1,0 +1,5 @@
+pydantic
+pdfplumber
+streamlit
+python-dotenv
+pandas

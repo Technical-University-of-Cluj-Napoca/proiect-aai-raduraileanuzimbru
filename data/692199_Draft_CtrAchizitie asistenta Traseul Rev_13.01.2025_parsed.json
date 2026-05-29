@@ -1,0 +1,1366 @@
+{
+  "metadata": {
+    "title": "Model Contract",
+    "page_count": 14,
+    "parties": [
+      {
+        "name": "cultură în conformitate cu documentaţia de",
+        "cui_cnp": null,
+        "address": null
+      }
+    ],
+    "signing_date": null,
+    "effective_date": null,
+    "value": null,
+    "duration": "şi perioada de desfăşurare a serviciilor de asistenţă tehnică"
+  },
+  "sections": [
+    {
+      "title": "Art. 1. Părțile contractante",
+      "start_page": 2
+    },
+    {
+      "title": "Art. 2. Definiții",
+      "start_page": 2
+    },
+    {
+      "title": "Art. 3 Interpretare",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 4. Obiectul contractului",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 5. Preţul contractului",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 6. Durata contractului şi perioada de desfăşurare a serviciilor de asistenţă tehnică",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 7. Documentele contractului",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 8. Standarde",
+      "start_page": 3
+    },
+    {
+      "title": "Art. 9. Caracterul confidenţial al contractului",
+      "start_page": 4
+    },
+    {
+      "title": "Art. 10. Obligaţiile principale ale prestatorului",
+      "start_page": 4
+    },
+    {
+      "title": "Art. 11. Alte obligaţii ale Prestatorului",
+      "start_page": 7
+    },
+    {
+      "title": "Art. 12. Obligaţiile principale ale Achizitorului",
+      "start_page": 8
+    },
+    {
+      "title": "Art. 13. Sancţiuni pentru neîndeplinirea culpabilă a obligaţiilor",
+      "start_page": 8
+    },
+    {
+      "title": "Art. 14. Garanţia de bună execuţie a contractului",
+      "start_page": 8
+    },
+    {
+      "title": "Art. 15. Modalităţi de plată",
+      "start_page": 9
+    },
+    {
+      "title": "Art. 16. Alte responsabilităţi ale Achizitorului",
+      "start_page": 10
+    },
+    {
+      "title": "Art. 17. Recepţie şi verificări",
+      "start_page": 10
+    },
+    {
+      "title": "Art. 18. Începere, finalizare, întârzieri",
+      "start_page": 10
+    },
+    {
+      "title": "Art. 19. Perioada de garanţie acordată serviciilor prestate",
+      "start_page": 10
+    },
+    {
+      "title": "Art. 20. Ajustarea preţului contractului",
+      "start_page": 11
+    },
+    {
+      "title": "Art. 21. Amendamente",
+      "start_page": 11
+    },
+    {
+      "title": "Art. 22. Subcontractanţi / Terţi susţinători / Asociaţi (Dacă este cazul)",
+      "start_page": 11
+    },
+    {
+      "title": "Art. 23. Cesiunea",
+      "start_page": 12
+    },
+    {
+      "title": "Art. 24. Forţa majoră",
+      "start_page": 12
+    },
+    {
+      "title": "Art. 25. Încetarea contractului",
+      "start_page": 13
+    },
+    {
+      "title": "Art. 27. Soluţionarea litigiilor",
+      "start_page": 14
+    },
+    {
+      "title": "Art. 28. Limba care guvernează contractul",
+      "start_page": 14
+    },
+    {
+      "title": "Art. 29. Comunicări",
+      "start_page": 14
+    },
+    {
+      "title": "Art. 30. Alte clauze",
+      "start_page": 14
+    },
+    {
+      "title": "Art. 30. Dispoziții finale",
+      "start_page": 14
+    }
+  ],
+  "clauses": [
+    {
+      "id": "clause_1",
+      "section": "Art. 1. Părțile contractante MUNICIPIUL TIMIŞOARA, cu sediul în Timișoara, Bd. C. D. Loga nr. 1, cod fiscal 14756536, e-",
+      "text": "Art. 1. Părțile contractante MUNICIPIUL TIMIŞOARA, cu sediul în Timișoara, Bd. C. D. Loga nr. 1, cod fiscal 14756536, e-mail: primariatm@primariatm.ro, legal reprezentat prin Primar, dl. Dominic FRITZ , în calitate de Achizitor şi ........................................., cu sediul social în .............................., sector/judeţ .............................., str. ....................................., nr. ..........., cod poştal ..................., tel./fax ............................, e-mail: ...................................înregistrată la Oficiul Național al Registrului Comerţului sub nr. .........................................., având codul fiscal ....................................., cont IBAN RO .............................................................................., deschis la Trezoreria.../ Banca .....................,.reprezentată prin .................. (funcția/calitatea), dl/dna .........................., în calitate de Prestator.",
+      "page": 2,
+      "type": "altele"
+    },
+    {
+      "id": "clause_2",
+      "section": "2.1. În prezentul contract următorii termeni vor fi interpretați astfel: a. contract - reprezintă prezentul contract şi ",
+      "text": "2.1. În prezentul contract următorii termeni vor fi interpretați astfel: a. contract - reprezintă prezentul contract şi toate Anexele sale; b. achizitor şi prestator - părțile contractante, așa cum sunt acestea numite în prezentul contract; c. prețul contractului - prețul plătibil prestatorului de către achizitor, în baza contractului, pentru îndeplinirea integrală şi corespunzătoare a tuturor obligațiilor sale asumate prin contract; d. amplasamentul lucrării - locul unde executantul execută lucrarea; e. forța majoră - un eveniment mai presus de controlul părților, care nu se datorează greșelii sau vinei acestora, care nu putea fi prevăzut la momentul încheierii contractului şi care face imposibilă executarea şi, respectiv, îndeplinirea contractului; sunt considerate asemenea evenimente: războaie, revoluții, incendii, inundații sau orice alte catastrofe naturale, restricții apărute ca urmare a unei carantine, embargo, enumerarea nefiind exhaustivă, ci enunțiativă. Nu este considerat forță majoră un eveniment asemenea celor de mai sus care, fără a crea o imposibilitate de executare, face extrem de costisitoare executarea obligațiilor uneia din părți; f. zi - zi calendaristică; an-365 de zile. g. garanția de bună execuție a contractului – suma constituita de către prestator în scopul asigurării achizitorului de îndeplinirea cantitativă, calitativă şi în perioada convenită a contractului . h. garanția lucrărilor/serviciilor – perioada de timp care curge de la data recepției efectuată la terminarea lucrărilor şi până la recepția finală . i. recepția la terminarea lucrărilor - recepția efectuată la terminarea completă a lucrărilor unui obiect sau unei părți din construcție, independentă, care poate fi utilizată separat din punct de vedere fizic şi funcțional, definita conform legii; j. recepția finală - recepția efectuată după expirarea perioadei de garanție, definita conform legii; k. investitorul sau beneficiarul - persoana/le juridica/ce care finanțează şi realizează investiții sau intervenții la construcțiile existente în sensul legii. l. executantul sau constructorul - persoana juridică ce a încheiat, în urma procedurii achiziției publice, contractul de execuție de lucrări a căror asistență tehnică se va realiza de către prestator. m. proiectantul – persoana fizică/juridică care întocmește documentația tehnică pe baza căreia se finanțează şi execută lucrările de construcții. n. echipa de implementare a proiectului ( EIP): grup de specialiști ( management contract finanțare, management tehnic, financiar, achiziții, personal, ssm) ai achizitorului cu atribuții conform fișelor de post anexe la contractul de finanțare;",
+      "page": 2,
+      "type": "forta_majora"
+    },
+    {
+      "id": "clause_3",
+      "section": "3.1. - În prezentul contract, cu excepţia unei prevederi contrare cuvintele la forma singular vor include forma de plura",
+      "text": "3.1. - În prezentul contract, cu excepţia unei prevederi contrare cuvintele la forma singular vor include forma de plural şi viceversa, acolo unde acest lucru este permis de context.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_4",
+      "section": "3.2. - Termenul „zi” sau „zile” sau orice referire la zile reprezintă zile calendaristice dacă nu se specifică în mod di",
+      "text": "3.2. - Termenul „zi” sau „zile” sau orice referire la zile reprezintă zile calendaristice dacă nu se specifică în mod diferit.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_5",
+      "section": "3.3. Clauzele prezentului contract se interpretează unele prin altele, dând fiecăreia înţelesul ce rezultă din ansamblul",
+      "text": "3.3. Clauzele prezentului contract se interpretează unele prin altele, dând fiecăreia înţelesul ce rezultă din ansamblul contractului, conform art 1267 Cod civil aprobat prin Legea nr. 287/2009.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_6",
+      "section": "3.4. Interpretarea clauzelor îndoielnice se va face in conormitate cu art 1268 Cod civil.",
+      "text": "3.4. Interpretarea clauzelor îndoielnice se va face in conormitate cu art 1268 Cod civil.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_7",
+      "section": "3.5. Dacă, după aplicarea regulilor de interpretare prevazute la art 1267-1268 Cod civil si la punctele 3.3, 3.4 din pre",
+      "text": "3.5. Dacă, după aplicarea regulilor de interpretare prevazute la art 1267-1268 Cod civil si la punctele 3.3, 3.4 din prezentul contract, acesta din urma rămâne neclar, clauzele contractuale se interpretează în favoarea celui care se obligă.",
+      "page": 3,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_8",
+      "section": "3.6. În situaţia în care, în cursul executării obligaţiilor contractuale, intervin conflicte/contradicţii între preveder",
+      "text": "3.6. În situaţia în care, în cursul executării obligaţiilor contractuale, intervin conflicte/contradicţii între prevederile propunerii tehnice şi cele ale Caietului de sarcini, vor prevala prevederile Caietului de sarcini. Ordinea de precedenţă este cea stabilită la pct. 8 ”Documentele Contractului”. CLAUZE OBLIGATORII",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_9",
+      "section": "4.1. Obiectul prezentului contract îl constituie asigurarea ASISTENŢEI TEHNICE DE SPECIALITATE PRIN DIRIGINŢI DE ŞANTIER",
+      "text": "4.1. Obiectul prezentului contract îl constituie asigurarea ASISTENŢEI TEHNICE DE SPECIALITATE PRIN DIRIGINŢI DE ŞANTIER pentru obiectivul de investiţie „Memorialul (Traseul) Revoluției din Decembrie 1989 în Timișoara” din cadrul proiectului „Timișoara Capitală Europeană a Culturii: Memorialul Revoluției- decembrie 1989”, finanțat prin PNRR 2020-2026, C 11 – Turism și cultură în conformitate cu documentaţia de achiziție și caietul de sarcini, cu respectarea reglementărilor legale în vigoare şi a obligaţiilor asumate prin prezentul contract.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_10",
+      "section": "5.1. Achizitorul va plăti prestatorului contravaloarea serviciilor de asistenţă tehnică prin diriginţi de şantier pentru",
+      "text": "5.1. Achizitorul va plăti prestatorului contravaloarea serviciilor de asistenţă tehnică prin diriginţi de şantier pentru realizarea obiectivului de investiție publică „Memorialul (Traseul) Revoluției din Decembrie 1989 în Timișoara” din cadrul proiectului „Timișoara Capitală Europeană a Culturii: Memorialul Revoluției-decembrie 1989”, finanțat prin PNRR 2020-2026, C 11 – Turism și cultură, în valoare de …………………………. lei, la care se adauga TVA, conform propunerii financiare anexă la contract;",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_11",
+      "section": "5.2. Serviciile care fac obiectul contractului se vor deconta procentual în funcţie de lucrările executate și verificate",
+      "text": "5.2. Serviciile care fac obiectul contractului se vor deconta procentual în funcţie de lucrările executate și verificate de către prestator, în calitate de reprezentant al Beneficiarului ale cărui interese le reprezintă în raporturile contractuale cu executantul, în perioada pentru care prestatorul solicită plata serviciului efectuat.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_12",
+      "section": "Art. 6. Durata contractului şi perioada de desfăşurare a serviciilor de asistenţă tehnică",
+      "text": "Art. 6. Durata contractului şi perioada de desfăşurare a serviciilor de asistenţă tehnică",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_13",
+      "section": "6.1(1) Contractul intră în vigoare la data semnării lui de către parti. (2) Prestatorul se obliga sa asigure asistenta t",
+      "text": "6.1(1) Contractul intră în vigoare la data semnării lui de către parti. (2) Prestatorul se obliga sa asigure asistenta tehnica de specialitate prin diriginti de santier, astfel: - pe toata perioada de execuție a lucrărilor stabilita in baza contractului de execuție lucrări. Perioada estimată pentru execuția lucrărilor este de 11luni. - si pe toata perioada de garanție a lucrărilor, de 5 ani, până la semnarea Procesului verbal de recepție finală.",
+      "page": 3,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_14",
+      "section": "6.2. Derularea serviciilor de asistenţă tehnică de specialitate prin diriginţi de şantier începe la data stabilită în or",
+      "text": "6.2. Derularea serviciilor de asistenţă tehnică de specialitate prin diriginţi de şantier începe la data stabilită în ordinul de începere a serviciilor comunicat prestatorului.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_15",
+      "section": "6.3. Contractul este finalizat la semnarea Procesului Verbal de recepţie finală.",
+      "text": "6.3. Contractul este finalizat la semnarea Procesului Verbal de recepţie finală.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_16",
+      "section": "6.4. În cazul decalării termenului pentru contractul de execuție lucrări, contractul de asistenta tehnica prin diriginti",
+      "text": "6.4. În cazul decalării termenului pentru contractul de execuție lucrări, contractul de asistenta tehnica prin diriginti de santier se prelungește în mod automat pe toata perioada executiei lucrarilor, fără costuri suplimentare. Modalitatea de implementare a contractului este definită de clauzele contractuale.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_17",
+      "section": "7.1. Documentele contractului sunt: a) Caietul de sarcini pentru servicii de dirigenție, înregistrat sub nr. ___________",
+      "text": "7.1. Documentele contractului sunt: a) Caietul de sarcini pentru servicii de dirigenție, înregistrat sub nr. _______________; b) Proiectul tehnic, Detalii de execuţie şi anexele la acestea, inclusiv caietele de sarcini pentru execuîie lucrări, în formal electronic; c) Propunerea tehnica și financiară; d) Garanţia de bună execuţie constituită conform art. 14 din prezentul contract; e) Poliţa de asigurare de răspundere civilă profesională, cu valabilitate pe toata durata de valabilitate a contractului, incheiata conform art.11 din prezentul contract;",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_18",
+      "section": "8.1 Serviciile prestate în baza contractului vor respecta standardele, normativele şi legislaţia în vigoare la data deru",
+      "text": "8.1 Serviciile prestate în baza contractului vor respecta standardele, normativele şi legislaţia în vigoare la data derularii contractului.",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_19",
+      "section": "8.2. Prestatorul garantează că, la data recepţiei, serviciile prestate vor corespunde cerinţelor din contract, iar lucra",
+      "text": "8.2. Prestatorul garantează că, la data recepţiei, serviciile prestate vor corespunde cerinţelor din contract, iar lucrarea executată, pentru care prestatorul a asigurat dirigenţia de şantier, va avea calităţile solicitate prin documentaţia tehnico - economică, va corespunde prevederilor din caietul de sarcini şi reglementărilor tehnice în vigoare, şi nu va fi afectată de vicii care ar diminua sau ar anula valoarea ori posibilitatea de utilizare, conform condiţiilor normale de folosire sau a celor specificate prin contractul de execuţie.",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_20",
+      "section": "9.1. Contractul are caracter de document public. Accesul persoanelor la aceste informaţii se realizează cu respectarea t",
+      "text": "9.1. Contractul are caracter de document public. Accesul persoanelor la aceste informaţii se realizează cu respectarea termenelor şi procedurilor prevăzute de reglementările legale privind liberul acces la informaţiile de interes public şi nu poate fi restricţionat decât în măsura în care aceste informaţii sunt clasificate sau protejate de un drept de proprietate intelectuală, potrivit legii.",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_21",
+      "section": "Art. 10. Obligaţiile principale ale prestatorului Atributii specifice domeniului monumentelor istorice: a) dirigintele d",
+      "text": "Art. 10. Obligaţiile principale ale prestatorului Atributii specifice domeniului monumentelor istorice: a) dirigintele de şantier este reprezentantul achizitorului pentru lucrările de execuţie, prin care acesta îşi exercită controlul asupra corectitudinii tehnice şi economice a lucrărilor contractate; b) dirigintele de şantier are toate atribuţiile şi răspunderile în conformitate cu prevederile juridice şi tehnice privind activitatea generală în construcţii, la care se adaugă cele specifice domeniului monumentelor istorice, după cum urmează: − cunoaşterea temeinică, din punct de vedere tehnic şi ştiinţific, a documentaţiilor avizate ce se execută; − supravegherea şi controlul corectitudinii intervenţiilor de orice natură pe perioada executării lucrărilor, în acord cu specificul lucrărilor de conservare-restaurare; − aducerea la cunoştinţa achizitorului a necesităţii asigurării protejării monumentului în caz de întrerupere temporară sau pe o perioadă nedeterminată, după caz, a lucrărilor de restaurare aflate în curs de execuţie; − urmărirea aplicării cu stricteţe a înscrisurilor din registrul de comunicări de şantier, inspecţie şi control şi din registrul de dispoziţii de şantier; − asigurarea în permanenţă a celei mai bune conlucrări între beneficiar şi finanţator, pe de o parte, şi specialişti - cercetători, proiectanţi şi executanţi, pe de altă parte; − verificarea în permanenţă a calităţii materialelor puse în operă, în acord cu prevederile proiectului avizat; − verificarea temeinică a înscrisurilor şi a schiţelor din caietele de ataşamente ale şantierului, cu poziţionarea exactă a fiecărei intervenţii, având în vedere importanţa acestor caiete în cadrul jurnalului de restaurare; − semnalarea promptă a oricăror descoperiri de urme de interes istoric, artistic sau arhitectural şi solicitarea achizitorului de a lua măsurile de protejare provizorie a acestora până la înregistrarea lor şi decizia privind continuarea lucrărilor; − participarea şi urmărirea întocmirii jurnalului de restaurare - cartea construcţiei şi predarea acesteia deţinătorului monumentului la recepţia lucrărilor. Faza I – Pregătirea execuţiei lucrărilor",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_22",
+      "section": "10.1. Verifică existenţa autorizaţiilor de construire pentru fiecare amplasament în parte şi urmăreşte îndeplinirea cond",
+      "text": "10.1. Verifică existenţa autorizaţiilor de construire pentru fiecare amplasament în parte şi urmăreşte îndeplinirea condiţiilor legale cu privire la încadrarea în termenele de valabilitate;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_23",
+      "section": "10.2. Participă împreună cu proiectantul şi cu executantul la trasarea generală a construcţiei şi la stabilirea bornelor",
+      "text": "10.2. Participă împreună cu proiectantul şi cu executantul la trasarea generală a construcţiei şi la stabilirea bornelor de reper;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_24",
+      "section": "10.4. Studiază proiectul, caietele de sarcini, tehnologiile şi procedurile prevăzute pentru realizarea construcţiilor şi",
+      "text": "10.4. Studiază proiectul, caietele de sarcini, tehnologiile şi procedurile prevăzute pentru realizarea construcţiilor şi urmăreşte respectarea lor pe tot parcursul execuţiei lucrărilor;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_25",
+      "section": "10.5. Verifică existenţa tuturor pieselor scrise şi desenate, corelarea acestora, aplicarea reglementărilor cu privire l",
+      "text": "10.5. Verifică existenţa tuturor pieselor scrise şi desenate, corelarea acestora, aplicarea reglementărilor cu privire la verificarea proiectelor de către verificatori atestaţi şi existenţa vizei expertului tehnic atestat, acolo unde este cazul;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_26",
+      "section": "10.6. Verifică existenţa programelor de control al calităţii, cu precizarea fazelor determinante si le depune, impreuna ",
+      "text": "10.6. Verifică existenţa programelor de control al calităţii, cu precizarea fazelor determinante si le depune, impreuna cu proiectantii de specialitate, la Inspectoratul de Stat în Construcţii, spre avizare;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_27",
+      "section": "10.7. Analizează concordanta dintre prevederile autorizatiei de construire, certificatului de urbanism , avizelor, acord",
+      "text": "10.7. Analizează concordanta dintre prevederile autorizatiei de construire, certificatului de urbanism , avizelor, acordurilor, precum şi a modului de preluare a condiţiilor impuse de acestea în proiect.",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_28",
+      "section": "10.8. Verifică respectarea prevederilor legale privind documentaţia tehnică si existenta expertizei tehnice in cazul luc",
+      "text": "10.8. Verifică respectarea prevederilor legale privind documentaţia tehnică si existenta expertizei tehnice in cazul lucrarilor de interventii asupra constructiilor;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_29",
+      "section": "10.9. Predă impreună cu beneficiarul, executantului, amplasamentul liber de orice sarcini şi bornele de reper precizate ",
+      "text": "10.9. Predă impreună cu beneficiarul, executantului, amplasamentul liber de orice sarcini şi bornele de reper precizate de proiectant şi întocmeşte procesul verbal de predare-primire amplasament;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_30",
+      "section": "10.10. Verifică şi înaintează spre aprobare beneficiarului, graficul detailat de eşalonare a execuţiei lucrărilor elabor",
+      "text": "10.10. Verifică şi înaintează spre aprobare beneficiarului, graficul detailat de eşalonare a execuţiei lucrărilor elaborat de catre constructor , adaptat la specificul lucrarilor ce vor fi executate;",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_31",
+      "section": "10.11. Verifica existenta „Planului calitatii” si a procedurilor/ instructiunilor tehnice pentru lucrarile ce se vor",
+      "text": "10.11. Verifica existenta „Planului calitatii” si a procedurilor/ instructiunilor tehnice pentru lucrarile ce se vor",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_32",
+      "section": "10.12. Verifica existenta anuntului de începere a lucrărilor la emitentul autorizației de construire si la Inspectoratul",
+      "text": "10.12. Verifica existenta anuntului de începere a lucrărilor la emitentul autorizației de construire si la Inspectoratul de Stat in Construcții;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_33",
+      "section": "10.13. Verifica existenta panoului de identificare a investitiei, daca acesta corespunde prevederilor legale si daca est",
+      "text": "10.13. Verifica existenta panoului de identificare a investitiei, daca acesta corespunde prevederilor legale si daca este amplasat la loc vizibil;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_34",
+      "section": "10.14. Verifica daca este precizata in proiect categoria de importanta a constructiei si a procedurilor de urmarire spec",
+      "text": "10.14. Verifica daca este precizata in proiect categoria de importanta a constructiei si a procedurilor de urmarire speciala a comportarii in exploatare a constructiilor, daca aceasta va fi instituita; Faza II – Execuţia lucrărilor",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_35",
+      "section": "10.15. Urmăreşte realizarea construcţiei în conformitate cu prevederile contractului, proiectelor, caietelor de sarcini,",
+      "text": "10.15. Urmăreşte realizarea construcţiei în conformitate cu prevederile contractului, proiectelor, caietelor de sarcini, autorizatiei de construire şi ale reglementărilor tehnice în vigoare;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_36",
+      "section": "10.16. Verifică existenta documentelor de certificare a calitatii produselor pentru constructii, respectiv corespondenta",
+      "text": "10.16. Verifică existenta documentelor de certificare a calitatii produselor pentru constructii, respectiv corespondenta calitatii acestora cu prevederile cuprinse in proiecte;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_37",
+      "section": "10.17. Interzice utilizarea produselor pentru constructii fara certificate de conformitate, declaratii de conformitate s",
+      "text": "10.17. Interzice utilizarea produselor pentru constructii fara certificate de conformitate, declaratii de conformitate sau agrement tehnic;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_38",
+      "section": "10.18. Verifica respectarea tehnologiilor de executie, aplicarea corecta a acestora in vederea asigurarii nivelului cali",
+      "text": "10.18. Verifica respectarea tehnologiilor de executie, aplicarea corecta a acestora in vederea asigurarii nivelului calitativ prevazut in documentatia tehnica si in reglemantarile tehnice.",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_39",
+      "section": "10.19. Interzice utilizarea de lucrători neautorizaţi pentru meseriile la care reglementările tehnice au prevederi în ac",
+      "text": "10.19. Interzice utilizarea de lucrători neautorizaţi pentru meseriile la care reglementările tehnice au prevederi în acest sens, respectiv executarea de lucrari de catre personal necalificat;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_40",
+      "section": "10.20. Verifică existenţa şi respectarea planului calităţii şi a procedurilor /instrucţiunilor tehnice pentru lucrarea r",
+      "text": "10.20. Verifică existenţa şi respectarea planului calităţii şi a procedurilor /instrucţiunilor tehnice pentru lucrarea respectivă;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_41",
+      "section": "10.21. Asigură participarea factorilor implicaţi la verificarea lucrărilor în faze determinante;",
+      "text": "10.21. Asigură participarea factorilor implicaţi la verificarea lucrărilor în faze determinante;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_42",
+      "section": "10.22. Efectuează verificările prevăzute în reglementările tehnice, semnează si stampileaza documentele întocmite ca urm",
+      "text": "10.22. Efectuează verificările prevăzute în reglementările tehnice, semnează si stampileaza documentele întocmite ca urmare a verificărilor efectuate (procese-verbale în faze determinante, procese-verbale de recepţie calitativă a lucrărilor ce devin ascunse, etc.);",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_43",
+      "section": "10.23. Asistă la prelevarea probelor de la locul de punere în operă şi urmăreşte conformitatea acestora;",
+      "text": "10.23. Asistă la prelevarea probelor de la locul de punere în operă şi urmăreşte conformitatea acestora;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_44",
+      "section": "10.24. Transmite către proiectant (prin intermediul investitorului) sesizările proprii sau ale participanţilor la realiz",
+      "text": "10.24. Transmite către proiectant (prin intermediul investitorului) sesizările proprii sau ale participanţilor la realizarea construcţiei privind neconformităţile constatate pe parcursul execuţiei;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_45",
+      "section": "10.25. Informeaza operativ investitorul privind deficientele calitative constatate , in vederea dispunerii de masuri si,",
+      "text": "10.25. Informeaza operativ investitorul privind deficientele calitative constatate , in vederea dispunerii de masuri si, dupa caz , propun oprirea lucrarilor;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_46",
+      "section": "10.26. Verifică, in calitate de reprezentant al beneficiarului, respectarea prevederilor legale in cazul schimbarii solu",
+      "text": "10.26. Verifică, in calitate de reprezentant al beneficiarului, respectarea prevederilor legale in cazul schimbarii solutiilor tehnice pe parcursul executiei lucrarilor.",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_47",
+      "section": "10.27. Urmăreşte respectarea de către executant a dispoziţiilor şi/sau a măsurilor dispuse de proiectant/de organele abi",
+      "text": "10.27. Urmăreşte respectarea de către executant a dispoziţiilor şi/sau a măsurilor dispuse de proiectant/de organele abilitate;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_48",
+      "section": "10.28. Anunta Inspectoratul de Stat in Constructii privind oprirea/sistarea executarii lucrilor de catre investitor / be",
+      "text": "10.28. Anunta Inspectoratul de Stat in Constructii privind oprirea/sistarea executarii lucrilor de catre investitor / beneficiar pentru o perioada mai mare de timp exceptand perioada de timp friguros si verifica punerea in siguranta a constructiei, conform proiectului;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_49",
+      "section": "10.29. Anunta Inspectoratul de Stat in Constructii reluarea lucrarilor la investitiile la care a fost oprita/sistata exe",
+      "text": "10.29. Anunta Inspectoratul de Stat in Constructii reluarea lucrarilor la investitiile la care a fost oprita/sistata executarea lucrarilor de catre investitor/beneficiar pentru o perioada mai mare de timp, exceptand perioada de timp friguros;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_50",
+      "section": "10.30. Preia documentele de la constructor şi proiectant şi completează cartea tehnică a construcţiei cu toate documente",
+      "text": "10.30. Preia documentele de la constructor şi proiectant şi completează cartea tehnică a construcţiei cu toate documentele prevăzute de reglementările legale;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_51",
+      "section": "10.31. Urmăreşte dezafectarea lucrărilor aferente organizării de şantier şi predă amplasamentul deţinătorului acestuia;",
+      "text": "10.31. Urmăreşte dezafectarea lucrărilor aferente organizării de şantier şi predă amplasamentul deţinătorului acestuia;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_52",
+      "section": "10.32. Urmăreşte executarea tuturor verificărilor prevăzute în proiect, în caietele de sarcini şi în normativele în vigo",
+      "text": "10.32. Urmăreşte executarea tuturor verificărilor prevăzute în proiect, în caietele de sarcini şi în normativele în vigoare;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_53",
+      "section": "10.33. Urmăreşte realizarea execuţiei lucrărilor conform termenelor stabilite în graficul de execuţie aprobat de benefic",
+      "text": "10.33. Urmăreşte realizarea execuţiei lucrărilor conform termenelor stabilite în graficul de execuţie aprobat de beneficiar şi raportează beneficiarului;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_54",
+      "section": "10.34. Constată, la solicitarea executantului, necesitatea efectuării de lucrări suplimentare şi informează operativ pro",
+      "text": "10.34. Constată, la solicitarea executantului, necesitatea efectuării de lucrări suplimentare şi informează operativ proiectantul în vederea întocmirii notelor de comandă suplimentare;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_55",
+      "section": "10.35. Sesizează existenţa unor lucrări/cantităţi nejustificate şi face demersurile necesare privind notele de renunţare",
+      "text": "10.35. Sesizează existenţa unor lucrări/cantităţi nejustificate şi face demersurile necesare privind notele de renunţare;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_56",
+      "section": "10.36. Urmăreşte realizarea lucrărilor din punct de vedere tehnic, pe tot parcursul execuţiei acestora, şi admite la pla",
+      "text": "10.36. Urmăreşte realizarea lucrărilor din punct de vedere tehnic, pe tot parcursul execuţiei acestora, şi admite la plată numai lucrările corespunzătoare din punct de vedere cantitativ şi calitativ;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_57",
+      "section": "10.37. Verifică situaţiile de plată aferente cantităţiilor de lucrări real executate folosind ca referinţă devizele pe c",
+      "text": "10.37. Verifică situaţiile de plată aferente cantităţiilor de lucrări real executate folosind ca referinţă devizele pe categorii de lucrări ale devizului ofertă anexat la contractul de executie lucrari, verificare ce se va realiza în termen de maxim 7 zile de la data primirii situațiilor de plata de la beneficiar;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_58",
+      "section": "10.38. Analizează, avizează şi prezintă spre aprobare beneficiarului toate modificările apărute pe parcursul execuţiei l",
+      "text": "10.38. Analizează, avizează şi prezintă spre aprobare beneficiarului toate modificările apărute pe parcursul execuţiei lucrărilor ;",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_59",
+      "section": "10.39. Intocmeşte o bază de date cu imagini foto care să reflecte starea de fapt pe tot parcursul execuţiei lucrărilor p",
+      "text": "10.39. Intocmeşte o bază de date cu imagini foto care să reflecte starea de fapt pe tot parcursul execuţiei lucrărilor precum şi la finalizarea acestora;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_60",
+      "section": "10.40. Urmăreşte întocmirea şi actualizarea zilnică pe şantier, de către constructor si/sau subantreprenorii acestuia a ",
+      "text": "10.40. Urmăreşte întocmirea şi actualizarea zilnică pe şantier, de către constructor si/sau subantreprenorii acestuia a următoarelor documente, pe care le va aviza şi care vor constitui parte a Cărţii Tehnice a Construcţiei: - jurnalul zilnic de şantier cuprinzând: starea vremii, temperatura aerului, lucrări executate, utilajele şi numărul de muncitori existent pe şantier, problemele deosebite apărute în execuţie, observaţii privind calitatea; - condica de betoane întocmită conform reglementărilor în vigoare, cu înregistrarea datelor de turnare şi testare a betonului, daca se executa acest tip de lucrari; - proces-verbal de preluare a amplasamentului, proces-verbal de lucrări ascunse, proces-verbal de constatare a calităţii lucrărilor pe parcursul execuţiei şi la fazele determinante întocmit împreună cu reprezentanţi ai I.S.C.; - certificate de conformitate şi de calitate pentru materialele şi echipamentele puse în operă, agremente tehnice cu avize tehnice in termen de valabilitate;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_61",
+      "section": "10.41. Asigură existenţa unei evidenţe stricte în şantier, a avizelor şi autorizaţiilor, a contractelor şi actelor adiţi",
+      "text": "10.41. Asigură existenţa unei evidenţe stricte în şantier, a avizelor şi autorizaţiilor, a contractelor şi actelor adiţionale, a planurilor şi documentelor de execuţie, a dispoziţiilor de şantier, a modificărilor de soluţii, a derogărilor de la proiect sau tehnologii aprobate, a datelor privind materialele şi echipamentele achiziţionate şi puse în operă (caracteristici tehnice, mostre, instrucţiuni de montaj, punere în funcţiune şi exploatare) şi a altor documente aferente;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_62",
+      "section": "10.42. Dirigintele de şantier se va îngriji ca la terminarea lucrărilor, planurile de execuţie să conţină toate modifică",
+      "text": "10.42. Dirigintele de şantier se va îngriji ca la terminarea lucrărilor, planurile de execuţie să conţină toate modificările apărute, să corespundă cu lucrările real executate, în vederea includerii lor în Cartea Construcţiei;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_63",
+      "section": "10.43. Dirigintele de şantier va întocmi Cartea Construcţiei pe baza înregistrărilor proprii şi a documentelor puse la d",
+      "text": "10.43. Dirigintele de şantier va întocmi Cartea Construcţiei pe baza înregistrărilor proprii şi a documentelor puse la dispoziţie de proiectant şi constructor şi le va înainta beneficiarului;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_64",
+      "section": "10.44. Prezintă/Întocmește raportul lunar privind activitatea contractanţilor, problemele apărute la îndeplinirea obliga",
+      "text": "10.44. Prezintă/Întocmește raportul lunar privind activitatea contractanţilor, problemele apărute la îndeplinirea obligaţiilor contractuale şi compararea rezultatelor obţinute cu datele programate în graficul general de realizare a investiţiei, indiferent dacă există progres fizic sau financiar;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_65",
+      "section": "10.45. Asigurarea calităţii lucrărilor de către dirigintele de şantier presupune în mod obligatoriu următoarele: - contr",
+      "text": "10.45. Asigurarea calităţii lucrărilor de către dirigintele de şantier presupune în mod obligatoriu următoarele: - controlul fiecărei faze a execuţiei lucrărilor, cu înregistrarea ei cronologică, neadmiţându-se realizarea fazei următoare dacă nu este consemnată în scris calitatea lucrărilor ce urmează a fi acoperite cu alte lucrări, conform proiectului; - controlul separat a fiecărei categorii de lucrări care, potrivit proiectului, devine în final un obiect constituent al investiţiei finale sau al unei acţiuni sau activităţi cu repercursiuni asupra duratei de exploatare a obiectivului; - asigurarea calităţii materialelor utilizate în procesul de executie lucrari in conformitate cu documentele contractului;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_66",
+      "section": "10.46. In cazul în care se constată deficienţe de ordin calitativ, neîndepliniri, defecţiuni sau rămâneri în urmă faţă d",
+      "text": "10.46. In cazul în care se constată deficienţe de ordin calitativ, neîndepliniri, defecţiuni sau rămâneri în urmă faţă de sarcinile menţionate mai sus, dirigintele de şantier va atenţiona constructorul, va informa operativ beneficiarul şi va propune măsuri pentru remedierea de urgenţă a acestor neajunsuri;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_67",
+      "section": "10.47. Verifică situaţiile de lucrări executate aferente cantităţilor de lucrări real executate şi le confirmă spre plat",
+      "text": "10.47. Verifică situaţiile de lucrări executate aferente cantităţilor de lucrări real executate şi le confirmă spre plată din punct de vedere cantitativ, calitativ şi a încadrării în preţul prevazut in oferta tehnica si financiara a constructorului ce executa lucrarea;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_68",
+      "section": "10.48. Prestatorul (dirigintele de şantier) va trebui să îşi asigure măsurile necesare de protecţia muncii pe toata dura",
+      "text": "10.48. Prestatorul (dirigintele de şantier) va trebui să îşi asigure măsurile necesare de protecţia muncii pe toata durata prestării serviciilor.",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_69",
+      "section": "10.49. Se va asigura pe tot parcursul derulării lucrărilor de execuție la cele 9 locații ale proiectului ca Executantul ",
+      "text": "10.49. Se va asigura pe tot parcursul derulării lucrărilor de execuție la cele 9 locații ale proiectului ca Executantul să respecte obligațiile privind conformitatea investiției cu prinicipiul de a nu prejudicia în mod semnificativ (DNSH - “do not significant harm”) prevăzută în Comunicarea Comisiei – Orientări tehnice privind aplicarea principiului de „a nu prejudicia în mod semnificativ” în temeiul Regulamentului privind Mecanismul de redresare și reziliență (2021/C 58/01) și cu Regulamentul delegat (UE) al Comisiei [C (2021) 2800/3], în temeiul Regulamentului privind taxonomia (UE) (2020/852). Faza III – Recepţia lucrărilor",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_70",
+      "section": "10.50. Prestatorul (dirigintele de santier) va confirma beneficiarului ca lucrările pot fi considerate terminate şi va i",
+      "text": "10.50. Prestatorul (dirigintele de santier) va confirma beneficiarului ca lucrările pot fi considerate terminate şi va informa beneficiarul asupra necesitatii convocarii Comisiei de recepţie la terminarea lucrărilor dupa ce executantul anunță, printr-un document scris, finalizarea lucrarilor pentru fiecare locație autorizată ce fac obiectul contractului de executie;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_71",
+      "section": "10.51. Prestatorul asigură secretariatul comisiei de recepţie la terminarea lucrărilor şi întocmeşte actele de receptie;",
+      "text": "10.51. Prestatorul asigură secretariatul comisiei de recepţie la terminarea lucrărilor şi întocmeşte actele de receptie;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_72",
+      "section": "10.52. Prestatorul organizează, după caz, la cererea beneficiarului, recepții parțiale în conformitate cu prevederile le",
+      "text": "10.52. Prestatorul organizează, după caz, la cererea beneficiarului, recepții parțiale în conformitate cu prevederile legale în vigoare (H.G. nr.343/2017 pentru modificarea H.G. nr.273/1994 privind aprobarea Regulamentului de recepție a lucrărilor de construcții și instalații aferente acestora);",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_73",
+      "section": "10.53. Prestatorul ( dirigintele de şantier) urmăreşte efectuarea remedierilor conţinute în anexa procesului-verbal de s",
+      "text": "10.53. Prestatorul ( dirigintele de şantier) urmăreşte efectuarea remedierilor conţinute în anexa procesului-verbal de suspendare a receptiei în termen de cel mult 90 zile de la data incheierii procesului verbal de suspendare a receptiei, asa cum este prevazut in HG 343/2017 ;",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_74",
+      "section": "10.54. Prestatorul preda către beneficiar, după finalizarea lucrărilor, anterior recepției la terminarea lucrărilor, car",
+      "text": "10.54. Prestatorul preda către beneficiar, după finalizarea lucrărilor, anterior recepției la terminarea lucrărilor, cartea",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_75",
+      "section": "10.55. Prestatorul urmăreşte comportarea construcţiilor şi instalaţiilor în perioada de garanţie şi asigură asistenţa te",
+      "text": "10.55. Prestatorul urmăreşte comportarea construcţiilor şi instalaţiilor în perioada de garanţie şi asigură asistenţa tehnică de specialitate pentru lucrările de intervenție necesare a fi remediate in perioada de garantie;",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_76",
+      "section": "10.56. Prestatatorul (dirigintele de şantier) va transmite executantului o notificare cu privire la viciile care au apăr",
+      "text": "10.56. Prestatatorul (dirigintele de şantier) va transmite executantului o notificare cu privire la viciile care au apărut în perioada de garanţie şi pe care executantul trebuie să le remedieze pe cheltuiala sa, dacă acestea s-au datorat nerespectării clauzelor contractuale de către executant, la sesizarea beneficiarului;",
+      "page": 7,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_77",
+      "section": "10.57. Serviciile prestate privind activitatea de asistenţă tehnică prin diriginţi de şantier se consideră finalizate od",
+      "text": "10.57. Serviciile prestate privind activitatea de asistenţă tehnică prin diriginţi de şantier se consideră finalizate odată cu recepţia finală (după încheierea perioadei de garanţie a lucrărilor, respectiv a perioadei de 60 luni (5 ani) de la recepția la terminarea lucrărilor);",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_78",
+      "section": "11.1. Prestatorul se obligă ca, pentru îndeplinirea serviciilor de asistenţă tehnică prin diriginţi de şantier, care fac",
+      "text": "11.1. Prestatorul se obligă ca, pentru îndeplinirea serviciilor de asistenţă tehnică prin diriginţi de şantier, care fac obiectul contractului, să presteze serviciile la standardele şi/sau performanţele solicitate de către Achizitor şi asumate de către Prestator în documentele contractului prevăzute în articolul 7 „Documentele contractului” şi în conformitate cu prevederile Legii nr.10/18.01.1995 privind calitatea în construcţii, actualizata, cu prevederile Ordinului MDRT nr. 1496/13.05.2011 privind Procedura de autorizare a diriginţilor de şantier şi cu orice alte prevederi legale în vigoare referitoare la acest domeniu.",
+      "page": 7,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_79",
+      "section": "11.2. Prestatorul se obligă să presteze serviciile în conformitate cu graficul de prestare ce va fi realizat în corelare",
+      "text": "11.2. Prestatorul se obligă să presteze serviciile în conformitate cu graficul de prestare ce va fi realizat în corelare cu graficul de execuţie a lucrării pus la dispoziţia prestatorului de către achizitor, dupa primirea ordinului de incepere lucrari primit de catre executantul lucrarilor.",
+      "page": 7,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_80",
+      "section": "11.3. În caz de suspendare/limitare/anulare a autorizaţiei Prestatorului, conform Ordinului M.D.R.T. nr.1496/2011 cu mod",
+      "text": "11.3. În caz de suspendare/limitare/anulare a autorizaţiei Prestatorului, conform Ordinului M.D.R.T. nr.1496/2011 cu modificări și completări ulterioare, acesta are obligaţia de a anunţa Achizitorul printr-o notificare scrisă.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_81",
+      "section": "11.4. Prestatorul se obligă să despăgubească achizitorul împotriva oricăror: i) reclamaţii şi acţiuni în justiţie, ce re",
+      "text": "11.4. Prestatorul se obligă să despăgubească achizitorul împotriva oricăror: i) reclamaţii şi acţiuni în justiţie, ce rezultă din încălcarea unor drepturi de proprietate intelectuală (brevete, nume, mărci înregistrate etc.), legate de echipamentele, materialele, instalaţiile sau utilajele folosite pentru sau în legătură cu serviciile achiziţionate, şi ii) daune-interese, costuri, taxe şi cheltuieli de orice natură, aferente, cu excepţia situaţiei în care o astfel de încălcare rezultă din respectarea caietului de sarcini întocmit de achizitor.",
+      "page": 7,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_82",
+      "section": "11.5. Prestatorul va urmări, justifica şi obţine acordul achizitorului pentru orice modificare, cu respectarea prevederi",
+      "text": "11.5. Prestatorul va urmări, justifica şi obţine acordul achizitorului pentru orice modificare, cu respectarea prevederilor legale în vigoare, a dimensiunilor, calităţii sau cantităţii lucrărilor sau a unei părţi a acestora, privind: - mărirea sau micşorarea cantităţii oricărei lucrări incluse în contract; - renunţarea la o lucrare sau o parte din lucrare; - modificarea nivelurilor, poziţiilor şi dimensiunilor oricărei părţi din lucrare; - executarea de lucrări suplimentare de orice fel, necesare pentru terminarea obiectelor prevăzute în contract, cu respectarea încadrării în devizul general aprobat.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_83",
+      "section": "11.6. Prestatorul va cere constructorilor ca în cel mai scurt timp posibil de la întocmirea procesului-verbal de recepţi",
+      "text": "11.6. Prestatorul va cere constructorilor ca în cel mai scurt timp posibil de la întocmirea procesului-verbal de recepţie la terminarea lucrărilor, să prezinte pentru verificare situaţiile definitive de lucrări, care după analiză vor fi înaintate cu propuneri achizitorului pentru aprobare şi plata finală.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_84",
+      "section": "11.7. Prestatorul va prezenta lunar un raport privind activitatea contractanţilor, problemele apărute în executarea, înd",
+      "text": "11.7. Prestatorul va prezenta lunar un raport privind activitatea contractanţilor, problemele apărute în executarea, îndeplinirea obligaţiilor contractuale şi compararea rezultatelor obţinute cu datele programate prin graficul general de realizare a investiţiei.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_85",
+      "section": "11.8. Prestatorul este pe deplin responsabil de calificarea personalului folosit pe toată durata contractului.",
+      "text": "11.8. Prestatorul este pe deplin responsabil de calificarea personalului folosit pe toată durata contractului.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_86",
+      "section": "11.9. Prestatorul este responsabil pentru toate documentele şi rapoartele întocmite, precum şi pentru toate evidenţele ţ",
+      "text": "11.9. Prestatorul este responsabil pentru toate documentele şi rapoartele întocmite, precum şi pentru toate evidenţele ţinute.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_87",
+      "section": "11.10. Prestatorul este pe deplin responsabil de serviciilor în conformitate cu obligațiile asumate și prevederile legal",
+      "text": "11.10. Prestatorul este pe deplin responsabil de serviciilor în conformitate cu obligațiile asumate și prevederile legale în vigoare. Totodată, acesta este răspunzător de metodele de prestare utilizate, cât şi de calificarea personalului folosit pe toată durata contractului.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_88",
+      "section": "11.11. (1) Prestatorul are obligaţia de a încheia, înainte de începerea lucrărilor, o asigurare de răspundere civilă pro",
+      "text": "11.11. (1) Prestatorul are obligaţia de a încheia, înainte de începerea lucrărilor, o asigurare de răspundere civilă profesională la societăţi de asigurare autorizate de Autoritatea de Supraveghere Financiară, în conformitate cu prevederile art.31 din Legea nr.10/1995, privind serviciile prestate, personalul propriu şi reprezentanţii împuterniciţi să verifice, să testeze sau să recepţioneze lucrările, precum şi daunele sau prejudiciile aduse Achizitorului, precum şi faţă de terţe persoane fizice/juridice. Asigurarea va fi cel puţin la valoarea preţului contractului inclusiv TVA. (2) Asigurarea se va încheia cu o societate de asigurare autorizată conform legii. Contravaloarea primelor de asigurare va fi suportată de către prestator. (3) Prestatorul are obligaţia de a prezenta achizitorului o copie a poliţei odată cu depunerea garanţiei de bună execuţie, cat şi recipisele pentru plata primelor curente (actualizate).",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_89",
+      "section": "11.12. Sumele plătite de achizitor prestatorului, constatate ulterior de către organismele de control abilitate ca fiind",
+      "text": "11.12. Sumele plătite de achizitor prestatorului, constatate ulterior de către organismele de control abilitate ca fiind necuvenite, vor fi suportate de către Prestator împreună cu accesoriile acestor sume.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_90",
+      "section": "12.1. Achizitorul se obligă să recepţioneze serviciile prestate în momentul finalizării lor, în concordanţă cu numărul d",
+      "text": "12.1. Achizitorul se obligă să recepţioneze serviciile prestate în momentul finalizării lor, în concordanţă cu numărul de situaţii de lucrări ale antreprenorului, verificate şi acceptate de Prestator, şi confirmate de Responsabilii Tehnici al proiectului.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_91",
+      "section": "12.2. Achizitorul se obligă să plătească preţul către Prestator în cel mai scurt termen de la acceptarea facturii emisă ",
+      "text": "12.2. Achizitorul se obligă să plătească preţul către Prestator în cel mai scurt termen de la acceptarea facturii emisă de către acesta. Prin „cel mai scurt termen” se înţelege că plata se va face în maxim 30 (treizeci) de zile de la acceptarea plăţii către Achizitor.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_92",
+      "section": "12.3. Achizitorul va asigura fondurile necesare decontării serviciilor ce fac obiectul prezentului contract.",
+      "text": "12.3. Achizitorul va asigura fondurile necesare decontării serviciilor ce fac obiectul prezentului contract.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_93",
+      "section": "12.4. Achizitorul va asigura Prestatorului documentaţia tehnică necesară urmăririi execuţiei şi desemnează responsabilul",
+      "text": "12.4. Achizitorul va asigura Prestatorului documentaţia tehnică necesară urmăririi execuţiei şi desemnează responsabilul tehnic din cadrul compartimentului de specialitate, care să aprobe şi să contrasemneze orice act emis de către Prestator în prezentului contract.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_94",
+      "section": "13.1. Prestatorul se obligă să despăgubească Achizitorul pentru orice prejudiciu suferit din culpa sau în legătură cu se",
+      "text": "13.1. Prestatorul se obligă să despăgubească Achizitorul pentru orice prejudiciu suferit din culpa sau în legătură cu serviciile prestate în baza prezentului contract.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_95",
+      "section": "13.2. În cazul în care, din vina sa exclusivă, Prestatorul nu reuşeşte să-şi execute obligaţiile asumate prin contract, ",
+      "text": "13.2. În cazul în care, din vina sa exclusivă, Prestatorul nu reuşeşte să-şi execute obligaţiile asumate prin contract, atunci Achizitorul are dreptul de a deduce din preţul contractului sau de a solicita Prestatorului (după caz), cu titlu de penalităţi de întârziere, o sumă echivalentă cu o cota procentuală de 0,1% din valoarea obligațiilor neexecutate, pentru fiecare zi de întârziere până la îndeplinirea obligaţiilor.",
+      "page": 8,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_96",
+      "section": "13.3. În cazul în care Achizitorul, din vina sa exclusivă, nu îşi onorează obligațiile asumate, atunci acestuia îi revin",
+      "text": "13.3. În cazul în care Achizitorul, din vina sa exclusivă, nu îşi onorează obligațiile asumate, atunci acestuia îi revine obligația de a plăti, ca penalități, o sumă de 0,1% pentru fiecare zi de întârziere, din plata neefectuată",
+      "page": 8,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_97",
+      "section": "13.4. Nerespectarea obligaţiilor asumate prin prezentul contract de către una dintre părţi, în mod culpabil şi repetat, ",
+      "text": "13.4. Nerespectarea obligaţiilor asumate prin prezentul contract de către una dintre părţi, în mod culpabil şi repetat, dă dreptul părţii lezate de a considera contractul de drept reziliat şi de a pretinde plata de daune-interese moratorii și/sau compensatorii, după caz.",
+      "page": 8,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_98",
+      "section": "13.5. Achizitorul îşi rezervă dreptul de a renunţa oricând la contract, printr-o notificare scrisă adresată Prestatorulu",
+      "text": "13.5. Achizitorul îşi rezervă dreptul de a renunţa oricând la contract, printr-o notificare scrisă adresată Prestatorului, fără nici o compensaţie, dacă acesta din urmă dă faliment, cu condiţia ca această anulare să nu prejudicieze sau să afecteze dreptul la acţiune sau despăgubire pentru consultant. În acest caz, Prestatorul are dreptul de a pretinde numai plata corespunzătoare pentru partea din contract îndeplinită până la data denunţării unilaterale a contractului.",
+      "page": 8,
+      "type": "drept"
+    },
+    {
+      "id": "clause_99",
+      "section": "13.6. Daunele interese moratorii și/sau compensatorii pe care achizitorul este îndreptățit să le solicite de la executan",
+      "text": "13.6. Daunele interese moratorii și/sau compensatorii pe care achizitorul este îndreptățit să le solicite de la executant se rețin din garanția de bună-execuție. Dacă valoarea daunelor-interese depășește cuantumul garanției de bună- execuție, Executantul are obligația de a plăti diferența în termen de 30 de zile de la notificarea achizitorului și de a completa garanția de bună-execuție în termenul stabilit la art. 14.7(3) din contract. CLAUZE SPECIFICE",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_100",
+      "section": "14.1. Prestatorul se obligă să constituie garanţia de bună execuţie a contractului conform prevederilor Legii nr. 98/201",
+      "text": "14.1. Prestatorul se obligă să constituie garanţia de bună execuţie a contractului conform prevederilor Legii nr. 98/2016, cu modificarile si completarile ulterioare.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_101",
+      "section": "14.2.Garanţia de bună execuţie reprezintă 5% din valoarea contractului, fără TVA și se va constitui în termen de 5 zile ",
+      "text": "14.2.Garanţia de bună execuţie reprezintă 5% din valoarea contractului, fără TVA și se va constitui în termen de 5 zile lucrătoare de la data semnării contractului de achiziţie publică Acest termen poate fi prelungit la solicitarea justificată a contractantului, fără a depăşi 15 zile de la data semnării contractului de achiziţie publică/contractului subsecvent.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_102",
+      "section": "14.4. Garanţia de bună execuţie a contractului se constituie de către prestator în scopul asigurării achizitorului de în",
+      "text": "14.4. Garanţia de bună execuţie a contractului se constituie de către prestator în scopul asigurării achizitorului de îndeplinirea cantitativă, calitativă şi în perioada convenită a contractului. (1) Garanția de bună execuție trebuie să fie irevocabilă, necondiționată și se constituie prin: a) virament bancar; b) instrumente de garantare emise în condiţiile legii astfel: (i) scrisori de garanţie emise de instituţii de credit bancare din România sau din alt stat; (ii) scrisori de garanţie emise de instituţii financiare nebancare din România sau din alt stat pentru achiziţiile de lucrări a căror valoare estimată este mai mică sau egală cu 40.000.000 lei fără TVA şi respectiv pentru achiziţiile de produse sau servicii a căror valoare estimată este mai mică sau egală cu 7.000.000 lei fără TVA; (iii) asigurări de garanţii emise:",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_103",
+      "section": "5.000 lei; d) reţineri succesive din sumele datorate pentru facturi parţiale, în cazul garanţiei de bună execuţie. În ac",
+      "text": "5.000 lei; d) reţineri succesive din sumele datorate pentru facturi parţiale, în cazul garanţiei de bună execuţie. În acest sens, prestatorul are obligaţia de a deschide un cont la unitatea Trezoreriei Statului din cadrul organului fiscal competent, la dispoziţia achizitorului, în conformitate cu H.G. nr. 395/02.06.2016. Suma iniţială care se depune de către prestator în contul de disponibil astfel deschis, nu trebuie să fie mai mică de 1% din preţul contractului, fără TVA. Pe parcursul îndeplinirii contractului, achizitorul urmează să alimenteze acest cont de disponibil prin reţineri succesive din sumele datorate şi cuvenite prestatorului până la concurenţa sumei stabilită drept garanţie de bună execuţie în contractul de achiziţie. Achizitorul va înştiinţa prestatorul despre vărsămîntul efectuat, precum şi de destinaţia lui. Contul astfel de schis este purtător de dobândă în favoarea prestatorului. e) combinarea a două sau mai multe dintre modalităţile de constituire prevăzute la lit. a)-c), în cazul garanţiei de bună execuţie. (Ofertantul trebuie să specifice clar și fără ambiguități modalitatea de constituire a garanției de bună execuție.) (2). În situaţia în care garanția de bună execuție este constituită prin instrument de garantare care nu acoperă toată perioada de valabilitate a contractului, Prestatorul are obligaţia prelungirii acestuia cu cel puțin 15 zile înainte de data de expirare; în caz contrar, Achizitorul este îndreptățit a reține garanția de bună-execuție constituită.",
+      "page": 9,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_104",
+      "section": "14.5. Neconstituirea garanției de bună execuție în termenul, cuantumul și condițiile stabilite sau neconstituirea unei n",
+      "text": "14.5. Neconstituirea garanției de bună execuție în termenul, cuantumul și condițiile stabilite sau neconstituirea unei noi garanții de bună execuție în cazul în care aceasta a expirat sau a fost executată integral, ori necompletarea garanției în cazul în care a fost executată parțial, dă dreptul achizitorului să solicite rezoluțiunea/rezilierea contractului, fără punere în întarziere sau îndeplinirea unei formalități prealabile de către achizitor, acesta având dreptul de a pretinde plata de daune-interese.",
+      "page": 9,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_105",
+      "section": "14.6 Conform art. 154 ind. 2 alin. 4 din Legea nr. 98/2016, autoritatea contractantă are obligaţia de a elibera/restitui",
+      "text": "14.6 Conform art. 154 ind. 2 alin. 4 din Legea nr. 98/2016, autoritatea contractantă are obligaţia de a elibera/restitui garanţia de bună execuţie după cum urmează: a) 70% din valoarea garanţiei, în termen de 14 zile de la data încheierii procesului-verbal de recepţie la terminarea lucrărilor, dacă nu a ridicat până la acea dată pretenţii asupra ei; b) restul de 30% din valoarea garanţiei, în termen de 14 zile de la data emiterii raportului final de supervizare/expirarea duratei de garanţie acordată lucrării în cauză.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_106",
+      "section": "14.7. (1) Achizitorul are dreptul de a emite pretenţii asupra garanţiei de bună execuţie dacă Prestatorul nu îşi execută",
+      "text": "14.7. (1) Achizitorul are dreptul de a emite pretenţii asupra garanţiei de bună execuţie dacă Prestatorul nu îşi execută, total sau parțial, execută cu întârziere sau execută necorespunzător, total sau parțial, obligaţiile asumate prin prezentul contract, la nivelul daunelor interese produse Achizitorului . Anterior emiterii unei pretenţii asupra garanţiei de bună execuţie, Achizitorul are obligaţia de a notifica acest lucru Prestatorului, cât și emitentului instrumentului de garantare, după caz, precizând totodată obligaţiile care nu au fost respectate, precum și modul de calcul al prejudiciului. (2) În cazul în care, pe parcursul executării contractului, se suplimentează valoarea acestuia, executantul are obligaţia de a completa garanţia de bună execuţie în corelaţie cu noua valoare a contractului de achiziţie publică, în termen de cel mult 5 (cinci) zile lucrătoare de la comunicarea noii valori. (3) În situaţia executării garanţiei de bună execuţie, parţial sau total, Prestatorul are obligaţia de a reîntregi garanţia de bună execuție corespunzător restului rămas de executat, în termen de cel mult 5 (cinci) zile lucrătoare de la executarea acesteia de către Achizitor",
+      "page": 9,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_107",
+      "section": "15.1. (1) Achizitorul are obligaţia de a efectua plata către prestator în maxim 30 de zile de la acceptarea plăţii de că",
+      "text": "15.1. (1) Achizitorul are obligaţia de a efectua plata către prestator în maxim 30 de zile de la acceptarea plăţii de către Achizitor. (2) Prestatorul va putea emite facturi parţiale, corelate cu procentul de lucrări executate şi facturate pe baza situaţiilor de lucrări ale executantui, verificate şi acceptate de prestator, şi confirmate de Responsabilul tehnic din cadrul Echipei de Implementare Proiect. (3) Regularizarea plăţilor efectuate către Prestator, până la concurenţa preţului total al contractului, se va face de către Achizitor la ultima situaţie de lucrări a antreprenorului, verificată şi acceptată de Prestator, şi confirmată de Responsabilii Tehnici ai Echipei de Implementare a Proiectului.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_108",
+      "section": "15.2. Contractul nu va fi considerat finalizat până când nu va fi semnat procesul-verbal de recepţie finală, prin care s",
+      "text": "15.2. Contractul nu va fi considerat finalizat până când nu va fi semnat procesul-verbal de recepţie finală, prin care se confirmă că serviciile au fost prestate conform contractului. Recepţia finală va fi efectuată conform prevederilor legale, după expirarea perioadei de garanţie. Plata ultimelor sume datorate prestatorului, pentru serviciile prestate, nu va fi condiţionată de eliberarea certificatului de recepţie finală.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_109",
+      "section": "15.3. Factura nu se va emite înainte de acordul Achizitorului, prin Responsabilul tehnic din cadrul Echipei de Implement",
+      "text": "15.3. Factura nu se va emite înainte de acordul Achizitorului, prin Responsabilul tehnic din cadrul Echipei de Implementare Proiect, privind conformitatea serviciilor prestate cu cerinţele contractului.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_110",
+      "section": "15.4. Serviciile pe care prestatorul le prestează în afara celor prevăzute în contract fără a avea acceptul achizitorulu",
+      "text": "15.4. Serviciile pe care prestatorul le prestează în afara celor prevăzute în contract fără a avea acceptul achizitorului, nu vor fi plătite de către acesta din urmă.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_111",
+      "section": "15.5. Se va avea în vedere că plățile efectuate în cadrul prezentului contract vor fi supuse cererilor de transfer de fo",
+      "text": "15.5. Se va avea în vedere că plățile efectuate în cadrul prezentului contract vor fi supuse cererilor de transfer de fonduri, conform mecansimului cererilor de transfer de fonduri stabilit în baza OUG 124/2021 privind stabilirea cadrului instituțional și financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare și reziliență, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului național de redresare și reziliență necesar României pentru accesarea de fonduri externe, în vederea rambursării acestora de către finanțator. În acest sens, se va avea în vedere prezentarea tuturor documentelor justificative solicitate de către finanțator pe parcursul verificării și autorizării plăților.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_112",
+      "section": "16.1. Achizitorul se obligă să pună la dispoziţia prestatorului orice facilităţi şi/sau informaţii pe care acesta le-a c",
+      "text": "16.1. Achizitorul se obligă să pună la dispoziţia prestatorului orice facilităţi şi/sau informaţii pe care acesta le-a cerut în propunerea tehnică şi pe care le consideră necesare îndeplinirii contractului.",
+      "page": 10,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_113",
+      "section": "16.2. Achizitorul are dreptul de a supraveghea desfăşurarea prestării serviciilor şi de a stabili conformitatea lor cu s",
+      "text": "16.2. Achizitorul are dreptul de a supraveghea desfăşurarea prestării serviciilor şi de a stabili conformitatea lor cu specificaţiile din anexele la contract prin Responsabilii Tehnici din cadrul Echipei de Implementare a Proiectului din cadrul Municipiului Timisoara.",
+      "page": 10,
+      "type": "drept"
+    },
+    {
+      "id": "clause_114",
+      "section": "16.3. Responsabili tehnici menţionați la art.16.2 în conformitate cu fişa postului au obligaţia de a urmări îndeplinirea",
+      "text": "16.3. Responsabili tehnici menţionați la art.16.2 în conformitate cu fişa postului au obligaţia de a urmări îndeplinirea clauzelor contractuale în vederea a avizării serviciilor real prestate din punct de vedere al conformităţii, legalităţii şi regularităţii, conform procedurilor stabilite la nivel instituțional, de a participa la recepţia serviciilor, de a aviza prin semnarea facturilor emisede către Prestator şi de a restitui garanţia de bună execuţie.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_115",
+      "section": "17.1. Achizitorul are dreptul de a verifica modul de prestare a serviciilor de către prestator, pentru a stabili conform",
+      "text": "17.1. Achizitorul are dreptul de a verifica modul de prestare a serviciilor de către prestator, pentru a stabili conformitatea lor cu prevederile documentelor contractului din art. 7.1.",
+      "page": 10,
+      "type": "drept"
+    },
+    {
+      "id": "clause_116",
+      "section": "17.2. Verificările vor fi efectuate în conformitate cu prevederile din prezentul contract. Achizitorul are obligaţia de ",
+      "text": "17.2. Verificările vor fi efectuate în conformitate cu prevederile din prezentul contract. Achizitorul are obligaţia de a notifica, în scris, prestatorului, identitatea reprezentanţilor săi împuterniciţi pentru acest scop.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_117",
+      "section": "18.1. (1) Prestatorul are obligaţia de a începe prestarea serviciilor în conformitate cu art.6. (2) În cazul în care pre",
+      "text": "18.1. (1) Prestatorul are obligaţia de a începe prestarea serviciilor în conformitate cu art.6. (2) În cazul în care prestatorul suferă întârzieri şi/sau suportă costuri suplimentare, datorate în exclusivitate Achizitorului, părţile vor stabili de comun acord prin semnarea unui act adiţional la contract: a) prelungirea perioadei de prestare a serviciului, şi b) totalul cheltuielilor aferente, dacă este cazul, care se pot adăuga la preţul contractului.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_118",
+      "section": "18.2 (1) Serviciile prestate în baza contractului sau, dacă este cazul, oricare fază a acestora prevăzută a fi finalizat",
+      "text": "18.2 (1) Serviciile prestate în baza contractului sau, dacă este cazul, oricare fază a acestora prevăzută a fi finalizată într-o perioadă stabilită în graficul de prestare, trebuie finalizată în termenul convenit de părţi, termen care se calculează de la data începerii prestării serviciilor. (2) În cazul în care: i) orice motive de întârziere, ce nu se datorează prestatorului, sau ii) alte circumstanţe neobişnuite susceptibile de a surveni, altfel decât prin încălcarea contractului de către prestator, îndreptăţesc prestatorul de a solicita prelungirea perioadei de prestare a serviciilor sau a oricărei faze a acestora, atunci părţile vor revizui, de comun acord, perioada de prestare şi vor semna un act adiţional.",
+      "page": 10,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_119",
+      "section": "18.3. Dacă pe parcursul îndeplinirii contractului, prestatorul nu respectă graficul de prestare, acesta are obligaţia de",
+      "text": "18.3. Dacă pe parcursul îndeplinirii contractului, prestatorul nu respectă graficul de prestare, acesta are obligaţia de a notifica acest lucru, în timp util, Achizitorului. Modificarea datei/perioadelor de prestare asumate în graficul de prestare se face cu acordul părţilor, prin act adiţional.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_120",
+      "section": "18.4. În afara cazului în care Achizitorul este de acord cu o prelungire a termenului de execuţie, orice întârziere în î",
+      "text": "18.4. În afara cazului în care Achizitorul este de acord cu o prelungire a termenului de execuţie, orice întârziere în îndeplinirea contractului dă dreptul Achizitorului de a solicita penalităţi prestatorului.",
+      "page": 10,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_121",
+      "section": "19.1. Perioada de garanţie a serviciilor curge de la data recepţiei la terminarea lucrarilor de executie şi până la expi",
+      "text": "19.1. Perioada de garanţie a serviciilor curge de la data recepţiei la terminarea lucrarilor de executie şi până la expirarea duratei de garantie de 5 ani, până la recepţia finală.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_122",
+      "section": "19.2. În perioada de garanţie a serviciilor, prestatorul are obligaţia, în urma dispoziţiei date de achizitor şi/sau de ",
+      "text": "19.2. În perioada de garanţie a serviciilor, prestatorul are obligaţia, în urma dispoziţiei date de achizitor şi/sau de către orice organism abilitat să verifice modul de utilizare a finanţãrii nerambursabile, de a efectua toate modificările şi sau remedierile solicitate de către aceştia, fără nicio o sumă suplimentară faţă de valoarea contractului, în sarcina achizitorului.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_123",
+      "section": "19.3. În cazul în care prestatorul nu prestează serviciile prevăzute la art. 19.2, achizitorul este îndreptăţit să angaj",
+      "text": "19.3. În cazul în care prestatorul nu prestează serviciile prevăzute la art. 19.2, achizitorul este îndreptăţit să angajeze şi să plătească alte persoane care să le execute. Cheltuielile aferente acestor servicii vor fi recuperate de către achizitor de la prestator sau reţinute din sumele cuvenite acestuia.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_124",
+      "section": "20.1. Pentru serviciile prestate, plăţile datorate de Achizitor prestatorului sunt tarifele declarate în propunerea fina",
+      "text": "20.1. Pentru serviciile prestate, plăţile datorate de Achizitor prestatorului sunt tarifele declarate în propunerea financiară, anexă la contract.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_125",
+      "section": "20.2. Preţul contractului este ferm, în lei şi nu poate fi ajustat într-un interval de 24 de luni de la semnarea contrac",
+      "text": "20.2. Preţul contractului este ferm, în lei şi nu poate fi ajustat într-un interval de 24 de luni de la semnarea contractului.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_126",
+      "section": "20.3. Prețul contractului va fi ajustat/revizuit doar în situația în care se depășește termenul de 24 de luni de la semn",
+      "text": "20.3. Prețul contractului va fi ajustat/revizuit doar în situația în care se depășește termenul de 24 de luni de la semnarea acestuia de către părți, conform prevederilor art. 222 ind.2 alin. 9 din Legea nr. 98/2016 privind achiziţiile publice.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_127",
+      "section": "20.4..Modalitatea prin care prețul contractului de achiziție publică va putea fi ajustat este realizarea unei actualizăr",
+      "text": "20.4..Modalitatea prin care prețul contractului de achiziție publică va putea fi ajustat este realizarea unei actualizări cu rata inflației comunicată de Institutul Național de Statistică, începând cu a 25-a lună de derulare a contractului, aplicată asupra restului de executat, după cum urmează : A = (preț serviciu x IPC)/100 A = actualizare preț IPC = indice preț consum servicii comunicat de INS",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_128",
+      "section": "21.1. Părţile contractante au dreptul, pe durata îndeplinirii contractului, de a conveni modificarea clauzelor contractu",
+      "text": "21.1. Părţile contractante au dreptul, pe durata îndeplinirii contractului, de a conveni modificarea clauzelor contractului, prin act adiţional, numai în condițiile prevăzute de legislația achizițiilor publice.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_129",
+      "section": "21.2. Dacă pe parcursul îndeplinirii contractului, prestatorul nu respectă graficul de prestare al serviciilor, acesta a",
+      "text": "21.2. Dacă pe parcursul îndeplinirii contractului, prestatorul nu respectă graficul de prestare al serviciilor, acesta are obligaţia de a notifica, în timp util, achizitorul; modificarea datei/perioadelor de furnizare asumate în graficul de livrare se face cu acordul părţilor, prin act adiţional.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_130",
+      "section": "Art. 22. Subcontractanţi / Terţi susţinători / Asociaţi (Dacă este cazul) Prestatorul are obligația de a se achita în mo",
+      "text": "Art. 22. Subcontractanţi / Terţi susţinători / Asociaţi (Dacă este cazul) Prestatorul are obligația de a se achita în mod direct de obligaţiile asumate.",
+      "page": 11,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_131",
+      "section": "22.1.1. La încheierea contractului sau atunci când se introduc noi subcontractanţi, este obligatorie furnizarea către Ac",
+      "text": "22.1.1. La încheierea contractului sau atunci când se introduc noi subcontractanţi, este obligatorie furnizarea către Achizitor a contractelor încheiate de către Prestator cu subcontractanţii nominalizaţi în ofertă sau declaraţi ulterior, astfel încât activităţile ce revin acestora, precum şi sumele aferente prestaţiilor, să fie cuprinse în contract devenind anexe ale acestuia. Ele trebuie să cuprindă obligatoriu, însă fără a se limita: denumirea subcontractanţilor, reprezentanţii legali ai noilor subcontractanţi, datele de contact, activităţile ce urmează a fi subcontractate, valoarea aferentă prestaţiilor, opţiunea de a fi plătiţi direct de către Achizitor, opţiunea de cesionare a contractului în favoarea Achizitorului.",
+      "page": 11,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_132",
+      "section": "22.1.2. Prestatorul are dreptul de a înlocui/implica noi subcontractanţi în perioada de implementare a contractului în c",
+      "text": "22.1.2. Prestatorul are dreptul de a înlocui/implica noi subcontractanţi în perioada de implementare a contractului în conformitate cu cele prevăzute expres de legislaţia în vigoare privind achiziţiile publice. Schimbarea Prestatorului nu poate modifica preţul contractul şi va fi notificată Achizitorului sub rezerva acceptării acestuia din urmă.",
+      "page": 11,
+      "type": "drept"
+    },
+    {
+      "id": "clause_133",
+      "section": "22.1.3. Prestatorul va avea dreptul de a înlocui/implica subcontractanți, în perioada de implementare a contractului, cu",
+      "text": "22.1.3. Prestatorul va avea dreptul de a înlocui/implica subcontractanți, în perioada de implementare a contractului, cu condiţia ca schimbarea să nu reprezinte o modificare substanţială a acestuia, și doar cu acordul scris al Achizitorului. Orice solicitare privind înlocuirea/implicarea de noi subcontractanţi, va fi înaintată de către Prestator în vederea obţinerii acordului Achizitorului într-un termen rezonabil şi care nu va putea fi mai mare de 15 zile inainte de momentul începerii activităţii de către noii subcontractanţi.",
+      "page": 11,
+      "type": "drept"
+    },
+    {
+      "id": "clause_134",
+      "section": "22.1.4. În situaţia prevăzuta la art. 22.1.2., Prestatorul poate înlocui/implica subcontractanţii în perioada de impleme",
+      "text": "22.1.4. În situaţia prevăzuta la art. 22.1.2., Prestatorul poate înlocui/implica subcontractanţii în perioada de implementare a contractului, în următoarele situaţii: înlocuirea subcontractanţilor nominalizaţi în ofertă, ai căror activităţi au fost indicate în oferta inițială ca fiind realízate de subcontractanţi; declararea unor noi subcontractanţi, ulterior semnării contractului, în condiţiile în care serviciile ce urmează a fi subcontractate au fost prevăzute în ofertă, fără a se indica iniţial opţiunea subcontractării acestora. renunţarea, retragerea subcontractanţilor din contract.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_135",
+      "section": "22.1.5. În vederea obţinerii acordului Achizitorului, noii subcontractanţi sunt obligaţi să prezinte: o declaraţie pe pr",
+      "text": "22.1.5. În vederea obţinerii acordului Achizitorului, noii subcontractanţi sunt obligaţi să prezinte: o declaraţie pe proprie răspundere prin care îşi asumă prevederile temei de proiectare şi a propunerii tehnice depusă de către Prestator la ofertă, pentru activităţile supuse subcontractării; contractele de subcontractare încheiate între Prestator şi noii subcontractanţi ce vor cuprinde obligatoriu, dar fără a se limita la acestea, informaţii cu privire la activităţile ce urmează a fi subcontractate, datele de contact şi reprezentanţii legali, valoarea aferentă activităţii ce va face obiectul contractului; certificatele şi alte documente necesare pentru verificarea inexistenţei unor situaţii de excludere şi a resurselor/capabilităţilor corespunzătoare părţilor de implicare în contractul de achiziţie publică.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_136",
+      "section": "22.1.6. Dispoziţiile privind înlocuirea/implicarea de noi subcontractanţi nu diminuează în nici o situaţie răspunderea P",
+      "text": "22.1.6. Dispoziţiile privind înlocuirea/implicarea de noi subcontractanţi nu diminuează în nici o situaţie răspunderea Prestatorului în ceea ce priveşte modul de îndeplinire a contractului.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_137",
+      "section": "22.1.7. În vederea finalizării contractului, Achizitorul poate solicita, în condiţiile legislaţiei achiziţiilor publice,",
+      "text": "22.1.7. În vederea finalizării contractului, Achizitorul poate solicita, în condiţiile legislaţiei achiziţiilor publice, iar Prestatorul se obligă să cesioneze în favoarea Achizitorului, contractele încheiate cu subcontractanţii acestuia, Prestatorul obligându-se, totodată, să introducă în contractele sale cu subcontractanţii clauze în acest sens. Într-o",
+      "page": 11,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_138",
+      "section": "22.1.8. Prestatorul este pe deplin răspunzător faţă de Achizitor de modul în care îşi îndeplineşte contractul. Subcontra",
+      "text": "22.1.8. Prestatorul este pe deplin răspunzător faţă de Achizitor de modul în care îşi îndeplineşte contractul. Subcontractantul este pe deplin faţă de Prestator de modul în care îşi îndeplineşte partea sa de contract. Prestatorul şi subcontractantul răspund solidar faţă de Achizitor.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_139",
+      "section": "22.2.1. Achizitorul poate efectua plăţi corespunzătoare părţii/părţilor din contract îndeplinite de către subcontractanţ",
+      "text": "22.2.1. Achizitorul poate efectua plăţi corespunzătoare părţii/părţilor din contract îndeplinite de către subcontractanţi dacă aceştia şi-au exprimat în mod expres această opţiune, conform dispoziţiilor legale aplicabile privind achiziţiile publice.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_140",
+      "section": "22.2.2. În aplicarea prevederilor art. 22.2.1. subcontractanţii îşi vor exprima, la momentul nominalizării lor în ofertă",
+      "text": "22.2.2. În aplicarea prevederilor art. 22.2.1. subcontractanţii îşi vor exprima, la momentul nominalizării lor în ofertă şi oricum nu mai târziu de data încheierii contractului, sau la momentul introducerii acestora în contract, după caz, opţiunea de a fi plătiţi direct de către Achizitor. În acest caz, factura se va emite direct de către subcontractant.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_141",
+      "section": "22.2.3. Achizitorul efectuează plăţile directe către subcontractanţii agreaţi doar atunci când prestaţia acestora este c",
+      "text": "22.2.3. Achizitorul efectuează plăţile directe către subcontractanţii agreaţi doar atunci când prestaţia acestora este confirmată prin documente agreate de toate cele 3 părţi, respectiv Achizitor, Prestator şi subcontractant sau de Achizitor şi subcontractant atunci când, în mod nejustificat, Prestatorul blochează confirmarea executării obligaţiilor asumate de subcontractant.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_142",
+      "section": "22.2.4. În aplicarea prevederilor art. 22.1.7 acordul părţilor se va materializa prin încheierea unui act adiţional la c",
+      "text": "22.2.4. În aplicarea prevederilor art. 22.1.7 acordul părţilor se va materializa prin încheierea unui act adiţional la contract între Achizitor, Prestator şi Subcontractant, atunci când contractul de subcontractare este cesionat Achizitorului.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_143",
+      "section": "22.3.1. Prezentul contract reprezintă şi contract de cesiune a drepturilor litigioase ce rezultă din încălcarea obligaţi",
+      "text": "22.3.1. Prezentul contract reprezintă şi contract de cesiune a drepturilor litigioase ce rezultă din încălcarea obligaţiilor ce îi revin terţului susţinător în baza angajamentului ferm, anexă la prezentul contract.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_144",
+      "section": "22.3.2. Cu titlu de garanţie, prin semnarea prezentului contract, Prestatorul consimte că Achizitorul se poate substitui",
+      "text": "22.3.2. Cu titlu de garanţie, prin semnarea prezentului contract, Prestatorul consimte că Achizitorul se poate substitui în toate drepturile sale, rezultate în urma încheierii angajamentului ferm, putând urmări orice pretenţie la daune pe care acesta ar putea să o aibă împotriva terţului susţinător pentru nerespectarea obligaţiilor asumate de către acesta.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_145",
+      "section": "22.3.3. În cazul în care Prestatorul este în imposibilitatea derulării prezentului contract, respectiv pentru partea de ",
+      "text": "22.3.3. În cazul în care Prestatorul este în imposibilitatea derulării prezentului contract, respectiv pentru partea de contract pentru care a primit susţinere din partea terţului în baza angajamentului ferm, terţul susţinător este obligat a duce la îndeplinire acea parte a contractului care face obiectul respectivului angajament ferm. Înlocuirea Prestatorului iniţial cu terţul susţinător nu reprezintă o modificare substanţială a contractului în cursul perioadei sale de valabilitate şi se va efectua prin semnarea unui act adiţional la contract şi fără organizarea unei alte proceduri de atribuire.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_146",
+      "section": "22.4. Asocierea de operatori economici (dacă este cazul) În cazul în care contractantul este, potrivit legii, o asociere",
+      "text": "22.4. Asocierea de operatori economici (dacă este cazul) În cazul în care contractantul este, potrivit legii, o asociere formată din două sau mai multe persoane: - Fiecare și toate aceste persoane sunt responsabile individual și în solidar față de Achizitor, fiind considerate ca având obligații comune și individuale pentru realizarea Contractului. - Membrii asocierii înțeleg și confirmă că liderul stabilit prin acordul de asociere este desemnat de asociere să acționeze în numele său și este autorizată să angajeze asocierea în cadrul contractului. - Membrii asocierii înțeleg și confirmă că liderul asocierii este autorizat să primească dispoziții din partea achizitorului și să primească plata pentru și în numele persoanelor care constituie asocierea. - Prevederile contractului de asociere nu sunt opozabile achizitorului.",
+      "page": 12,
+      "type": "date_personale"
+    },
+    {
+      "id": "clause_147",
+      "section": "23.1. Prestatorul poate cesiona dreptul său de a încasa contravaloarea serviciilor prestate, în condițiile prevăzute de ",
+      "text": "23.1. Prestatorul poate cesiona dreptul său de a încasa contravaloarea serviciilor prestate, în condițiile prevăzute de dispozițiile prezentului contract și cu respectarea art 6^1 din OUG nr. 146/2002 privind formarea şi utilizarea resurselor derulate prin trezoreria statului*). Cesiunea este valabilă numai cu acceptul prealabil exprimat în scris al instituției publice care datorează operatorului economic sumele reprezentând contravaloarea bunurilor achiziţionate, serviciilor prestate sau lucrărilor executate. Suma care face obiectul cesionării se achită de către Achizitor în contul indicat de cesionar, deschis la Trezoreria Statului, numai dacă Furnizorul cedent nu are obligaţii de plată către bugetul de stat, bugetul asigurărilor sociale de stat şi bugetele fondurilor speciale.",
+      "page": 12,
+      "type": "date_personale"
+    },
+    {
+      "id": "clause_148",
+      "section": "23.2. Obligaţiile născute din prezentul contract, rămân în sarcina părţilor contractante, astfel cum au fost stipulate ş",
+      "text": "23.2. Obligaţiile născute din prezentul contract, rămân în sarcina părţilor contractante, astfel cum au fost stipulate şi asumate iniţial.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_149",
+      "section": "24.2. Forţa majoră exonerează părţile contractante de îndeplinirea obligaţiilor asumate prin prezentul contract, pe toat",
+      "text": "24.2. Forţa majoră exonerează părţile contractante de îndeplinirea obligaţiilor asumate prin prezentul contract, pe toată perioada în care aceasta acţionează.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_150",
+      "section": "24.3. Îndeplinirea contractului va fi suspendată în perioada de acţiune a forţei majore, dar fără a prejudicia drepturil",
+      "text": "24.3. Îndeplinirea contractului va fi suspendată în perioada de acţiune a forţei majore, dar fără a prejudicia drepturile ce li se cuveneau părţilor până la apariţia acesteia.",
+      "page": 12,
+      "type": "altele"
+    },
+    {
+      "id": "clause_151",
+      "section": "24.4 . Partea contractantă care invocă forţa majoră are obligaţia de a notifica celeilalte părţi, imediat şi în mod comp",
+      "text": "24.4 . Partea contractantă care invocă forţa majoră are obligaţia de a notifica celeilalte părţi, imediat şi în mod complet, producerea acesteia şi să ia orice măsuri care îi stau la dispoziţie în vederea limitării consecinţelor.",
+      "page": 13,
+      "type": "altele"
+    },
+    {
+      "id": "clause_152",
+      "section": "24.5. Dacă forţa majoră acţionează sau se estimează că va acţiona pe o perioadă mai mare de 3 luni, fiecare parte va ave",
+      "text": "24.5. Dacă forţa majoră acţionează sau se estimează că va acţiona pe o perioadă mai mare de 3 luni, fiecare parte va avea dreptul să notifice celeilalte părţi încetarea de plin drept a prezentului contract, fără ca vreuna din părţi să poată pretinde celeilalte daune-interese.",
+      "page": 13,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_153",
+      "section": "25.1. Prezentul contract încetează în următoarele situații a) prin expirarea termenului pentru care a fost încheiat și/s",
+      "text": "25.1. Prezentul contract încetează în următoarele situații a) prin expirarea termenului pentru care a fost încheiat și/sau executarea de către ambele părți a tuturor obligațiilor ce le revin conform prezentului contract și legislației aplicabile; b) denunțare unilaterală, în condițiile prevăzute de art. 25.2 și 25.6. din contract c) prin reziliere, în cazul în care una din părți nu își execută sau execută necorespunzător obligațiile contractuale.",
+      "page": 13,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_154",
+      "section": "25.2 (1) Achizitorul îsi rezervă dreptul de a denunța unilateral contractul de servicii, în cel mult 30 de zile de la ap",
+      "text": "25.2 (1) Achizitorul îsi rezervă dreptul de a denunța unilateral contractul de servicii, în cel mult 30 de zile de la apariţia unor circumstanţe care nu au putut fi prevăzute la data încheierii contractului şi care conduc la modificarea clauzelor contractuale în aşa măsură încît îndeplinirea contractului respectiv ar fi contrară interesului public. (2) De asemenea, fără a aduce atingere dispoziţiilor dreptului comun privind încetarea contractelor sau dreptului autorităţii contractante de a solicita constatarea nulităţii absolute a contractului de achiziţie publică, în conformitate cu dispoziţiile dreptului comun, autoritatea contractantă are dreptul de a denunţa unilateral un contract de achiziţie publică în perioada de valabilitate a acestuia în una dintre următoarele situaţii: a)contractantul se afla, la momentul atribuirii contractului, în una dintre situaţiile care ar fi determinat excluderea sa din procedura de atribuire potrivit art. 164-167 Legea nr. 98/2016; b) contractul nu ar fi trebuit să fie atribuit contractantului respectiv, având în vedere o încălcare gravă a obligaţiilor care rezultă din legislaţia europeană relevantă şi care a fost constatată printr-o decizie a Curţii de Justiţie a Uniunii Europene.",
+      "page": 13,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_155",
+      "section": "25.3. În cazul prevăzut la clauza anterioara, Prestatorul are dreptul de a pretinde numai plata corespunzatoare pentru p",
+      "text": "25.3. În cazul prevăzut la clauza anterioara, Prestatorul are dreptul de a pretinde numai plata corespunzatoare pentru partea din contract îndeplinită până la data denunţării unilaterale a contractului.",
+      "page": 13,
+      "type": "drept"
+    },
+    {
+      "id": "clause_156",
+      "section": "25.4. (1)Nerespectarea obligaţiilor asumate prin prezentul contract de către Prestator, în mod culpabil şi repetat, dă d",
+      "text": "25.4. (1)Nerespectarea obligaţiilor asumate prin prezentul contract de către Prestator, în mod culpabil şi repetat, dă dreptul părţii lezate de a considera contractul desfiinţat de plin drept, prin reziliere, fără somaţie, punere în întârziere sau intervenţia instanţei de judecată şi de a pretinde plata de daune – interese. Rezilierea opereaza de la data mentionata in notificarea transmisa partii în culpa de către partea lezată. (2) In situația rezilierii contractului ca urmare a neîndeplinirii prevederilor acestuia, Prestatorul datorează Achizitorului daune-interese în cuantum egal cu valoarea garanției de buna executie, pe care Achizitorul o reține. In situatia în care valoarea prejudiciului suferit de achizitor ca urmare a rezilierii contractului din culpa prestatoului este mai mare decat cuantumul garanției de bună execuție, Achizitorul solicită, iar Prestatorul este obligat sa plateasca diferența în termen de 10 zile de la primirea notificării achizitorului. In orice situatie, Achizitorul pastrează dreptul recuperării prejudiciului produs de executant în fața instantelor judecatorești competente.",
+      "page": 13,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_157",
+      "section": "25.5. Orice modificare a unui contract de achiziţie publică în cursul perioadei sale de valabilitate altfel decât în caz",
+      "text": "25.5. Orice modificare a unui contract de achiziţie publică în cursul perioadei sale de valabilitate altfel decât în cazurile şi condiţiile prevăzute la art. 221 din Legea nr. 98/2016 se realizează prin organizarea unei noi proceduri de atribuire, în conformitate cu dispoziţiile prezentei legi.",
+      "page": 13,
+      "type": "altele"
+    },
+    {
+      "id": "clause_158",
+      "section": "25.6. În situaţia nerespectării dispoziţiilor art. 25.5 Achizitorul are dreptul de a denunţa unilateral contractul de ac",
+      "text": "25.6. În situaţia nerespectării dispoziţiilor art. 25.5 Achizitorul are dreptul de a denunţa unilateral contractul de achiziţie publică iniţial.",
+      "page": 13,
+      "type": "drept"
+    },
+    {
+      "id": "clause_159",
+      "section": "25.7. Încetarea din orice motiv a prezentului contract nu va avea nici un efect asupra obligaţiilor deja scadente între ",
+      "text": "25.7. Încetarea din orice motiv a prezentului contract nu va avea nici un efect asupra obligaţiilor deja scadente între părţile contractante.",
+      "page": 13,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_160",
+      "section": "25.8. Prevederile prezentului articol nu înlătură răspunderea părţii care în mod culpabil a cauzat încetarea contractulu",
+      "text": "25.8. Prevederile prezentului articol nu înlătură răspunderea părţii care în mod culpabil a cauzat încetarea contractului.",
+      "page": 13,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_161",
+      "section": "25.9. În cazul încetării contractului indiferent din ce cauză, Prestatorul se obligă să predea Achizitorului toate docum",
+      "text": "25.9. În cazul încetării contractului indiferent din ce cauză, Prestatorul se obligă să predea Achizitorului toate documentele executate in baza contractului, indiferent de faza lor de execuţie, care devin proprietatea Achizitorului.",
+      "page": 13,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_162",
+      "section": "25.10 În cazul în care, din culpa prestatorului, achizitorul pierde finanţarea aferentă proiectului „Timișoara Capitală ",
+      "text": "25.10 În cazul în care, din culpa prestatorului, achizitorul pierde finanţarea aferentă proiectului „Timișoara Capitală Europeană a Culturii: Memorialul Revoluției-decembrie 1989”, finanțat prin PNRR 2020-2026, C 11 – Turism și cultură, Prestatorul îl va despăgubi pe Achizitor cu valoarea prejudiciului suferit, fără a depăși valoarea totală a proiectului. Art . 26 Clauze generale referitoare la protecția datelor cu caracter personal",
+      "page": 13,
+      "type": "altele"
+    },
+    {
+      "id": "clause_163",
+      "section": "26.1. Prestatorul colectează și prelucrează datele personale ale Beneficiarului în conformitate cu legislația în vigoare",
+      "text": "26.1. Prestatorul colectează și prelucrează datele personale ale Beneficiarului în conformitate cu legislația în vigoare, în modalități care asigură confidențialitatea și securitatea adecvată a acestor date, în vederea asigurării protecției împotriva prelucrării neautorizate sau ilegale și împotriva pierderii, a distrugerii sau a deteriorării accidentale.",
+      "page": 13,
+      "type": "confidentialitate"
+    },
+    {
+      "id": "clause_164",
+      "section": "26.2. În procesul de prelucrare a datelor cu caracter personal, Prestatorul aplică prevederile Regulamentului (UE) 2016/",
+      "text": "26.2. În procesul de prelucrare a datelor cu caracter personal, Prestatorul aplică prevederile Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea",
+      "page": 13,
+      "type": "date_personale"
+    },
+    {
+      "id": "clause_165",
+      "section": "26.3. Scopul prelucrării: Datele cu caracter personal ale Beneficiarului, comunicate în cadrul prezentului contract, vor",
+      "text": "26.3. Scopul prelucrării: Datele cu caracter personal ale Beneficiarului, comunicate în cadrul prezentului contract, vor fi prelucrate de Prestator în scopul executării prezentului contract la care Beneficiarul este parte contractantă.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_166",
+      "section": "26.4. Categorii de date: Datele cu caracter personal colectate și prelucrate în vederea executării prezentului contract ",
+      "text": "26.4. Categorii de date: Datele cu caracter personal colectate și prelucrate în vederea executării prezentului contract sunt urmatoarele: (de ex.: nume și prenume, adresa, serie și număr carte de identitate, cod numeric personal, număr de telefon/fax, adresa de poștă electronică, cod bancar).",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_167",
+      "section": "26.5. Datele personale ale Beneficiarului, comunicate în cadrul prezentului contract, pot fi comunicate de Prestator ins",
+      "text": "26.5. Datele personale ale Beneficiarului, comunicate în cadrul prezentului contract, pot fi comunicate de Prestator instituțiilor publice, în conformitate cu obligațiile legale care îi revin acestuia.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_168",
+      "section": "26.6. În situația în care este necesară prelucrarea datelor personale ale Beneficiarului în alte scopuri decât cele prev",
+      "text": "26.6. În situația în care este necesară prelucrarea datelor personale ale Beneficiarului în alte scopuri decât cele prevăzute la art. 26.3, prestatorul va informa beneficiarul și îi va solicita acordul scris cu privire la prelucrarea datelor cu caracter personal, în conformitate cu prevederile legislației în vigoare.",
+      "page": 14,
+      "type": "date_personale"
+    },
+    {
+      "id": "clause_169",
+      "section": "26.7. Prestatorul asigură dreptul Beneficiarului la informare și acces la datele cu caracter personal, dreptul la rectif",
+      "text": "26.7. Prestatorul asigură dreptul Beneficiarului la informare și acces la datele cu caracter personal, dreptul la rectificare, actualizare, portabilitate, ștergere, la restricționare și opoziție în conformitate cu prevederile legislației în vigoare.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_170",
+      "section": "26.8. Datele personale ale Beneficiarului sunt păstrate de către Prestator pe întreaga perioadă de executare a contractu",
+      "text": "26.8. Datele personale ale Beneficiarului sunt păstrate de către Prestator pe întreaga perioadă de executare a contractului și ulterior încetării acestuia, în conformitate cu prevederile legale referitoare la arhivarea documentelor.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_171",
+      "section": "27.1. Achizitorul şi prestatorul vor face toate eforturile pentru a rezolva pe cale amiabilă, prin tratative directe, sa",
+      "text": "27.1. Achizitorul şi prestatorul vor face toate eforturile pentru a rezolva pe cale amiabilă, prin tratative directe, sau prin mediere, orice neînţelegere sau dispută care se poate ivi între ei în cadrul sau în legătură cu îndeplinirea contractului.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_172",
+      "section": "27.2. Dacă părțile nu reuşesc să rezolve în mod amiabil o divergenţă contractuală, litigiul va fi dus spre soluţionare i",
+      "text": "27.2. Dacă părțile nu reuşesc să rezolve în mod amiabil o divergenţă contractuală, litigiul va fi dus spre soluţionare instanţei competente.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_173",
+      "section": "29.1. (1) Orice comunicare între parti, referitoare la îndeplinirea prezentului contract, trebuie să fie transmisă în sc",
+      "text": "29.1. (1) Orice comunicare între parti, referitoare la îndeplinirea prezentului contract, trebuie să fie transmisă în scris și/sau electronic cu semnătură electronică calificată. (2) Orice document scris trebuie înregistrat atât în momentul transmiterii, cât şi în momentul primirii.",
+      "page": 14,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_174",
+      "section": "29.2. Comunicările dintre părţi se pot face şi prin telefon, e-mail, cu condiţia confirmării în scris a primirii comunic",
+      "text": "29.2. Comunicările dintre părţi se pot face şi prin telefon, e-mail, cu condiţia confirmării în scris a primirii comunicării.",
+      "page": 14,
+      "type": "altele"
+    },
+    {
+      "id": "clause_175",
+      "section": "Art. 30. Dispoziții finale Părţile declară expres că au citit acest contract, inclusiv anexele, înainte de semnarea aces",
+      "text": "Art. 30. Dispoziții finale Părţile declară expres că au citit acest contract, inclusiv anexele, înainte de semnarea acestuia şi că acesta corespunde voinţei lor. În considerarea prevederilor legale aplicabile contractului, inclusiv ale articolului 1.203 Cod Civil, părţile confirmă acest lucru semnând prin reprezentanţii lor autorizaţi în mod legal acest contract și consimțind asupra fiecărei clauze din contract si anexele sale, inclusiv asupra celor care pot fi calificate drept clauze neuzuale, cu privire la care contractantul a fost informat și le-a înțeles pe deplin. Prezentul contract, redactat în limba română, este încheiat într-un singur exemplar și este semnat electronic cu semnătură electronică calificată de către toate părțile.",
+      "page": 14,
+      "type": "altele"
+    }
+  ]
+}
