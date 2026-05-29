@@ -1,0 +1,16 @@
+{
+  "title": "Model Contract",
+  "page_count": 14,
+  "sections_count": 30,
+  "clauses_count": 175,
+  "clauses_by_type": {
+    "altele": 130,
+    "forta_majora": 1,
+    "obligatie": 18,
+    "penalitate": 10,
+    "drept": 7,
+    "date_personale": 4,
+    "reziliere": 4,
+    "confidentialitate": 1
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "metadata": {
+    "title": "MODEL CONTRACT PRESTĂRI DE SERVICII",
+    "page_count": 12,
+    "parties": [
+      {
+        "name": "achizitor",
+        "cui_cnp": null,
+        "address": null
+      },
+      {
+        "name": "prestator",
+        "cui_cnp": null,
+        "address": null
+      }
+    ],
+    "signing_date": null,
+    "effective_date": null,
+    "value": null,
+    "duration": "6"
+  },
+  "sections": [
+    {
+      "title": "1. Părțile contractului",
+      "start_page": 1
+    },
+    {
+      "title": "2. PARCHETUL DE PE LÂNGĂ ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE, cu",
+      "start_page": 1
+    },
+    {
+      "title": "2. Definiţii",
+      "start_page": 1
+    },
+    {
+      "title": "3. Interpretare",
+      "start_page": 2
+    },
+    {
+      "title": "4. Obiectul principal al contractului",
+      "start_page": 2
+    },
+    {
+      "title": "5. Preţul contractului",
+      "start_page": 2
+    },
+    {
+      "title": "6. Durata contractului",
+      "start_page": 3
+    },
+    {
+      "title": "7. Documentele contractului",
+      "start_page": 3
+    },
+    {
+      "title": "8. Obligaţiile principale ale prestatorului",
+      "start_page": 3
+    },
+    {
+      "title": "9. Obligaţiile principale ale achizitorului",
+      "start_page": 4
+    },
+    {
+      "title": "10. Obligații privind daunele și penalitățile de întârziere",
+      "start_page": 4
+    },
+    {
+      "title": "art. 4 din Legea 72/2013 privind măsurile pentru combaterea întârzierii în executarea",
+      "start_page": 5
+    },
+    {
+      "title": "11. Facturare și plăți în cadrul contractului",
+      "start_page": 5
+    },
+    {
+      "title": "12. Garanția de buna execuție a contractului",
+      "start_page": 6
+    },
+    {
+      "title": "13. Recepția si verificarea serviciilor",
+      "start_page": 7
+    },
+    {
+      "title": "14. Modificarea contractului, clauze de revizuire",
+      "start_page": 7
+    },
+    {
+      "title": "15. Evaluarea modificărilor contractului și a circumstanțelor acestora, dacă este cazul",
+      "start_page": 7
+    },
+    {
+      "title": "16. Conflictul de interese",
+      "start_page": 8
+    },
+    {
+      "title": "17. Conduita prestatorului",
+      "start_page": 8
+    },
+    {
+      "title": "18. Suspendarea contractului",
+      "start_page": 9
+    },
+    {
+      "title": "19. Forța majoră",
+      "start_page": 9
+    },
+    {
+      "title": "20. Încetarea contractului",
+      "start_page": 9
+    },
+    {
+      "title": "21. Insolvență și faliment",
+      "start_page": 11
+    },
+    {
+      "title": "22. Limba contractului",
+      "start_page": 11
+    },
+    {
+      "title": "23. Legea aplicabilă",
+      "start_page": 11
+    },
+    {
+      "title": "24. Soluționarea eventualelor divergențe și a litigiilor",
+      "start_page": 11
+    }
+  ],
+  "clauses": [
+    {
+      "id": "clause_1",
+      "section": "2. PARCHETUL DE PE LÂNGĂ ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE, cu sediul în București, B-dul. Libertății, nr. 14, sector ",
+      "text": "2. PARCHETUL DE PE LÂNGĂ ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE, cu sediul în București, B-dul. Libertății, nr. 14, sector 5 , telefon 021/319 3885 şi fax 021/319 3813, cod fiscal 4364748 cont trezorerie RO11TREZ23D610600561502X deschis la ATCPMB, reprezentat prin Procuror General – Cristina CHIRIAC şi manager economic CEFA - PÎCCJ Georgeta CODESCU în calitate de ACHIZITOR, pe de o parte şi .........................................., cu sediul social în ......................., str. ............................. nr......, Bl......, sc. ...., ap........, sector ......., telefon/fax. ....................................., e-mail:...............................; cod unic de înregistrare ........................, J..............................., cont trezorerie ...................................................., deschis la Trezoreria ..........................., reprezentată prin Administrator ..........................., în calitate de PRESTATOR, pe de altă parte.",
+      "page": 1,
+      "type": "altele"
+    },
+    {
+      "id": "clause_2",
+      "section": "2.1. - În prezentul contract următorii termeni vor fi interpretaţi astfel: a) achizitor (autoritate contractantă) - pers",
+      "text": "2.1. - În prezentul contract următorii termeni vor fi interpretaţi astfel: a) achizitor (autoritate contractantă) - persoana numită beneficiar în Acordul Contractual; b) caiet de sarcini - document, reprezentând anexă a prezentului contract de servicii, întocmit de către achizitor, care include obiectivele, sarcinile, specificațiile și caracteristicile tehnice ale serviciilor şi, totodată, indicațiile privind regulile de bază care trebuie respectate în elaborarea propunerii tehnice de către prestator; c) contract – prezentul contract de achiziție publică de servicii care are ca obiect servicii de curățenie a spațiilor comune din sediul Parchetului de pe lângă înalta Curte de Casație si Justiție, cu titlu oneros, asimilat, potrivit Legii, actului administrativ, încheiat în scris, între achizitor și prestator, care are ca obiect prestarea de servicii; d) data de începere - data notificată în conformitate cu prevederile clauzei 6; e) documentație de atribuire - documentație ce cuprinde toate informațiile legate de obiectul contractului de achiziţie publică şi de procedura de atribuire a acestuia, inclusiv caietul de sarcini; 1 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 1,
+      "type": "altele"
+    },
+    {
+      "id": "clause_3",
+      "section": "3.1. În prezentul contract, cu excepţia unei prevederi contrare cuvintele la forma singular vor include forma de plural ",
+      "text": "3.1. În prezentul contract, cu excepţia unei prevederi contrare cuvintele la forma singular vor include forma de plural şi vice versa, acolo unde acest lucru este permis de context.",
+      "page": 2,
+      "type": "altele"
+    },
+    {
+      "id": "clause_4",
+      "section": "3.2. Termenul “zi”sau “zile” sau orice referire la zile reprezintă zile calendaristice dacă nu se specifică în mod expre",
+      "text": "3.2. Termenul “zi”sau “zile” sau orice referire la zile reprezintă zile calendaristice dacă nu se specifică în mod expres că sunt zile lucrătoare. Clauze obligatorii",
+      "page": 2,
+      "type": "altele"
+    },
+    {
+      "id": "clause_5",
+      "section": "4.1. - Prestatorul se obligă să presteze servicii de curățenie a spațiilor comune din sediul PÎCCJ de la data semnării c",
+      "text": "4.1. - Prestatorul se obligă să presteze servicii de curățenie a spațiilor comune din sediul PÎCCJ de la data semnării contractului până la 31.12.2026, în conformitate cu prevederile din caietul de sarcini și cu obligațiile asumate prin prezentul contract.",
+      "page": 2,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_6",
+      "section": "4.2. - Achizitorul se obligă să platească preţul convenit în prezentul contract pentru serviciile prestate şi recepţiona",
+      "text": "4.2. - Achizitorul se obligă să platească preţul convenit în prezentul contract pentru serviciile prestate şi recepţionate.",
+      "page": 2,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_7",
+      "section": "5.1. - Prețul convenit pentru îndeplinirea contractului, plătibil prestatorului de către achizitor este de ………….. lei fă",
+      "text": "5.1. - Prețul convenit pentru îndeplinirea contractului, plătibil prestatorului de către achizitor este de ………….. lei fără TVA/lună, cu o valoare totală a contractului de ………. lei fără TVA, la care se adaugă TVA în valoare de ………, având o valoare totală cu TVA de …………., care cuprinde toate activitățile de curățenie cuprinse în caietul de sarcini. 2 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 2,
+      "type": "altele"
+    },
+    {
+      "id": "clause_8",
+      "section": "6.1. - Durata prezentului contract este de 8 luni, în perioada 01.05.2026 - 31.12.2026;",
+      "text": "6.1. - Durata prezentului contract este de 8 luni, în perioada 01.05.2026 - 31.12.2026;",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_9",
+      "section": "6.2. - Contractul intră în vigoare la data semnarii de către ordonatorul principal de credite.",
+      "text": "6.2. - Contractul intră în vigoare la data semnarii de către ordonatorul principal de credite.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_10",
+      "section": "7. Documentele contractului Documentele contractului sunt: a) caiet de sarcini; b) oferta tehnică şi financiară a presta",
+      "text": "7. Documentele contractului Documentele contractului sunt: a) caiet de sarcini; b) oferta tehnică şi financiară a prestatorului; c) garanţia de bună execuţie; d) acte adiționale, dacă vor exista;",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_11",
+      "section": "8.1. - Prestatorul se obligă să presteze serviciile la standardele și/sau performanțele prezentate în caietul de sarcini",
+      "text": "8.1. - Prestatorul se obligă să presteze serviciile la standardele și/sau performanțele prezentate în caietul de sarcini, cu profesionalismul și promptitudinea cuvenite angajamentului asumat și în conformitate cu propunerea sa tehnică.",
+      "page": 3,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_12",
+      "section": "8.2. - Prestatorul are obligația de a supraveghea prestarea serviciilor, de a asigura resursele umane, materiale, instal",
+      "text": "8.2. - Prestatorul are obligația de a supraveghea prestarea serviciilor, de a asigura resursele umane, materiale, instalațiile echipamentele sau altele asemenea, fie de natură provizorie, fie definitive cerute de și pentru contract, în măsura în care necesitatea asigurării acestora este prevăzută în contract sau se poate deduce în mod rezonabil din contract.",
+      "page": 3,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_13",
+      "section": "8.3. - Prestatorul este pe deplin responsabil pentru prestarea serviciilor în conformitate cu Caietul de sarcini anexă l",
+      "text": "8.3. - Prestatorul este pe deplin responsabil pentru prestarea serviciilor în conformitate cu Caietul de sarcini anexă la contract. Totodată este răspunzător atât de siguranța tuturor operațiunilor și metodelor de prestare utilizate, cât și de calificarea personalului folosit pe durata contractului.",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_14",
+      "section": "8.4. - Prestatorul va executa serviciile de curățenie în intervalul orar 06-22, în două ture orare astfel: • tura I: 06:",
+      "text": "8.4. - Prestatorul va executa serviciile de curățenie în intervalul orar 06-22, în două ture orare astfel: • tura I: 06:00 - 14:00 • tura II: 14:00 - 22:00 3 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 3,
+      "type": "altele"
+    },
+    {
+      "id": "clause_15",
+      "section": "8.5.- Prestatorul este obligat să asigure supravegherea personalului printr-un supraveghetor cu experiență în activitate",
+      "text": "8.5.- Prestatorul este obligat să asigure supravegherea personalului printr-un supraveghetor cu experiență în activitate, care să aibă noțiuni de igienă dovedite prin diplomă/ certificat emise de Direcția de Sănătate Publică. Acesta va asigura și comunicarea permanentă cu Biroul Administrativ al instituției.",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_16",
+      "section": "8.6. - Personalul care execută serviciile de curățenie: a) este obligat să colecteze selectiv deșeurile, conform Legii n",
+      "text": "8.6. - Personalul care execută serviciile de curățenie: a) este obligat să colecteze selectiv deșeurile, conform Legii nr. 132/2010 privind colectarea selectivă a deșeurilor. b) va purta obligatoriu echipament de lucru personalizat cu sigla firmei și ecuson de identificare. c) va fi examinat periodic de către organele specializate ale prestatorului în ceea ce privește asistența medicală potrivit normelor sanitare în vigoare. De asemenea, acesta va fi instruit în vederea prevenirii incendiilor (PSI), securității și sănătăți în muncă (convenția SSM).",
+      "page": 4,
+      "type": "altele"
+    },
+    {
+      "id": "clause_17",
+      "section": "9.1. - Achizitorul se obligă să: • recepţioneze, prin personalul desemnat, serviciile prestate lunar, potrivit clauzei 1",
+      "text": "9.1. - Achizitorul se obligă să: • recepţioneze, prin personalul desemnat, serviciile prestate lunar, potrivit clauzei 11; • plătească lunar prețul serviciilor către prestator, în termen de maximum 30 de zile de la data primirii facturii. Factura va fi emisă după recepția serviciilor. Plata se face prin virament bancar în contul de trezorerie al prestatorului; • pună la dispoziţia prestatorului orice facilităţi şi/sau informaţii pe care acesta le-a cerut în propunerea tehnică şi pe care le consideră necesare îndeplinirii contractului.",
+      "page": 4,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_18",
+      "section": "9.2. – Achizitorul are obligația să asigure personalului prestatorului o cameră specială, securizată ce va fi folosită c",
+      "text": "9.2. – Achizitorul are obligația să asigure personalului prestatorului o cameră specială, securizată ce va fi folosită ca vestiar și depozit pentru păstrarea materialelor de curățenie precum și accesul la surse de apă și energie electrică.",
+      "page": 4,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_19",
+      "section": "9.3. - In cazul în care, prestatorul nu își îndeplinește la termen obligațiile asumate prin contract sau le îndeplinește",
+      "text": "9.3. - In cazul în care, prestatorul nu își îndeplinește la termen obligațiile asumate prin contract sau le îndeplinește necorespunzător, atunci achizitorul are dreptul de a percepe dobânda legală penalizatoare prevăzută la art. 3 alin. 2^1 din O.G. nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, cu modificările și completările ulterioare. Dobânda se aplică la valoarea serviciilor neprestate pentru fiecare zi de întârziere, dar nu mai mult de valoarea contractului.",
+      "page": 4,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_20",
+      "section": "10.1. - Prestatorul se obligă să despăgubească achizitorul în limita prejudiciului creat, împotriva oricăror: (i) reclam",
+      "text": "10.1. - Prestatorul se obligă să despăgubească achizitorul în limita prejudiciului creat, împotriva oricăror: (i) reclamații și acțiuni în justiție, ce rezultă din încălcarea unor drepturi de proprietate intelectuală (brevete, nume, mărci înregistrate etc.), legate de echipamentele, materialele, instalațiile folosite pentru sau în legătură cu serviciile prestate, și/sau 4 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 4,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_21",
+      "section": "10.2. - Prestatorul va despăgubi achizitorul în măsura în care sunt îndeplinite cumulativ următoarele condiții: (i) desp",
+      "text": "10.2. - Prestatorul va despăgubi achizitorul în măsura în care sunt îndeplinite cumulativ următoarele condiții: (i) despăgubirile să se refere exclusiv la daunele suferite de către achizitor ca urmare a culpei prestatorului; (ii) Achizitorul a notificat prestatorul despre primirea unei notificări/cereri cu privire la incidența oricăreia dintre situațiile prevăzute mai sus; (iii) valoarea despăgubirilor a fost stabilită prin titluri executorii emise conform prevederilor legale/hotărâri judecătorești definitive, după caz.",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_22",
+      "section": "10.3. - În cazul în care, prestatorul nu își îndeplinește la termen obligațiile asumate prin contract sau le îndeplineșt",
+      "text": "10.3. - În cazul în care, prestatorul nu își îndeplinește la termen obligațiile asumate prin contract sau le îndeplinește necorespunzător, atunci achizitorul are dreptul de a percepe dobânda legală penalizatoare prevăzută la art. 3 alin. 2^1 din O.G. nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, cu modificările și completările ulterioare. Dobânda se aplică la valoarea serviciilor neprestate pentru fiecare zi de întârziere, dar nu mai mult de valoarea contractului.",
+      "page": 5,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_23",
+      "section": "10.4. În cazul în care achizitorul, din vina sa exclusivă, nu își îndeplinește obligația de plată a facturii în termenul",
+      "text": "10.4. În cazul în care achizitorul, din vina sa exclusivă, nu își îndeplinește obligația de plată a facturii în termenul prevăzut la pct. 11.3, prestatorul are dreptul de a solicita plata dobânzii legale penalizatoare, aplicată la valoarea plății neefectuate, în conformitate cu prevederile",
+      "page": 5,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_24",
+      "section": "art. 4 din Legea 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume ",
+      "text": "art. 4 din Legea 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante, dar nu mai mult decât valoarea plații neefectuate, care curge de la expirarea termenului de plată.",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_25",
+      "section": "10.5. Penalitățile de întârziere datorate curg de drept de la data scadenței obligațiilor asumate conform prezentului co",
+      "text": "10.5. Penalitățile de întârziere datorate curg de drept de la data scadenței obligațiilor asumate conform prezentului contract.",
+      "page": 5,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_26",
+      "section": "10.6. In măsura în care achizitorul nu efectuează plata în termenul stabilit la pct. 11.3., prestatorul are dreptul de a",
+      "text": "10.6. In măsura în care achizitorul nu efectuează plata în termenul stabilit la pct. 11.3., prestatorul are dreptul de a rezilia contractul, fără a-i fi afectate drepturile la sumele cuvenite pentru prestarea serviciilor și la plata unor daune interese.",
+      "page": 5,
+      "type": "drept"
+    },
+    {
+      "id": "clause_27",
+      "section": "11.1. Plata care urmează a fi realizată în cadrul contractului se va face numai după emiterea facturii ca urmare a semnă",
+      "text": "11.1. Plata care urmează a fi realizată în cadrul contractului se va face numai după emiterea facturii ca urmare a semnării procesului-verbal lunar de recepție cantitativă și calitativă.",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_28",
+      "section": "11.2. Prestatorul va emite factura fiscală aferentă serviciilor prestate după finalizarea acestora și realizarea recepți",
+      "text": "11.2. Prestatorul va emite factura fiscală aferentă serviciilor prestate după finalizarea acestora și realizarea recepției cantitative și calitative, în conformitate cu prevederile caietului de sarcini. La baza facturii va sta procesul-verbal de recepţie, semnat de achizitor şi prestator precum şi toate documentele solicitate prin documentaţia de atribuire. 5 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 5,
+      "type": "altele"
+    },
+    {
+      "id": "clause_29",
+      "section": "11.3. Plata va fi efectuată de către achizitor, în conformitate cu serviciile recepţionate, în termen de 30 zile de la p",
+      "text": "11.3. Plata va fi efectuată de către achizitor, în conformitate cu serviciile recepţionate, în termen de 30 zile de la primirea facturii, conform Legii nr.72/2013, în contul de trezorerie înscris în contract.",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_30",
+      "section": "11.5. Factura furnizată va fi emisă și completată în conformitate cu legislația română în vigoare și va conține obligato",
+      "text": "11.5. Factura furnizată va fi emisă și completată în conformitate cu legislația română în vigoare și va conține obligatoriu codul CPV 90911000-6 – Servicii de întreținere și curățenie.",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_31",
+      "section": "11.6. Dacă factura are elemente greșite și/sau greșeli de calcul identificate de achizitor, și sunt necesare revizuiri, ",
+      "text": "11.6. Dacă factura are elemente greșite și/sau greșeli de calcul identificate de achizitor, și sunt necesare revizuiri, clarificări suplimentare sau alte documente suport din partea prestatorului, termenul de 30 de zile pentru plata facturii se suspendă. Repunerea în termen se face de la momentul îndeplinirii condițiilor de formă și de fond ale facturii.",
+      "page": 6,
+      "type": "altele"
+    },
+    {
+      "id": "clause_32",
+      "section": "11.7. Prestatorul este răspunzător de corectitudinea și exactitatea datelor înscrise în facturi și se obligă să restitui",
+      "text": "11.7. Prestatorul este răspunzător de corectitudinea și exactitatea datelor înscrise în facturi și se obligă să restituie atât sumele încasate în plus, cât și foloasele necuvenite realizate, aferente acestora. Sumele încasate în plus, cât și foloasele necuvenite aferente acestora realizate pe perioada de la încasare până la constatarea lor, vor fi stabilite în urma verificărilor executate de către organele de control intern ale prestatorului sau alte organisme de control abilitate de lege.",
+      "page": 6,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_33",
+      "section": "12.1. Prestatorul se obligă să constituie garanția de bună execuție a contractului în cuantum de 5% din prețul contractu",
+      "text": "12.1. Prestatorul se obligă să constituie garanția de bună execuție a contractului în cuantum de 5% din prețul contractului fără TVA, respectiv ........... lei, în termen de 5 zile lucrătoare de la semnarea contractului de ambele părți. Garanția de bună execuție se constituie în conformitate cu prevederile art. 40 din HG nr. 395/2016 pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică din Legea nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare.",
+      "page": 6,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_34",
+      "section": "12.2. Achizitorul are dreptul de a emite pretenții asupra garanției de bună execuție, în limita sumei stabilită drept ga",
+      "text": "12.2. Achizitorul are dreptul de a emite pretenții asupra garanției de bună execuție, în limita sumei stabilită drept garanție, în cazul în care prestatorul! nu își execută/ execută cu întârziere sau execută necorespunzător obligațiile asumate prin prezentul contract, în condițiile prevăzute la art. 41 din HG nr. 395/2016.",
+      "page": 6,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_35",
+      "section": "12.3. Achizitorul are obligația de a notifica pretenția atât prestatorului, cât și emitentului instrumentului de garanta",
+      "text": "12.3. Achizitorul are obligația de a notifica pretenția atât prestatorului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate, precum și modul de calcul al prejudiciului.",
+      "page": 6,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_36",
+      "section": "12.4. Prestatorul are obligația de a reîntregi/de a reconstitui garanția de bună execuție în termen de 5 zile de la mome",
+      "text": "12.4. Prestatorul are obligația de a reîntregi/de a reconstitui garanția de bună execuție în termen de 5 zile de la momentul la care aceasta a fost reținută de către achizitor. 6 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 6,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_37",
+      "section": "12.5. Restituirea garanției de bună execuție se face în termen 14 zile de la data îndeplinirii de către prestator a obli",
+      "text": "12.5. Restituirea garanției de bună execuție se face în termen 14 zile de la data îndeplinirii de către prestator a obligațiilor asumate prin contract, dacă achizitorul nu a ridicat, până la acea dată, pretenții asupra ei.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_38",
+      "section": "13.1. Recepția serviciilor prestate se realizează în conformitate cu prevederile caietului de sarcini, pe baza verificăr",
+      "text": "13.1. Recepția serviciilor prestate se realizează în conformitate cu prevederile caietului de sarcini, pe baza verificării îndeplinirii cerințelor cantitative și calitative, stabilite prin acesta.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_39",
+      "section": "13.1. Achizitorul are dreptul de a verifica modul de prestare a serviciilor pentru a stabili conformitatea lor cu preved",
+      "text": "13.1. Achizitorul are dreptul de a verifica modul de prestare a serviciilor pentru a stabili conformitatea lor cu prevederile din caietul de sarcini și din propunerea tehnică.",
+      "page": 7,
+      "type": "drept"
+    },
+    {
+      "id": "clause_40",
+      "section": "13.2. Efectuarea serviciilor în condițiile stabilite prin prezentul contract va fi confirmată de reprezentanții prestato",
+      "text": "13.2. Efectuarea serviciilor în condițiile stabilite prin prezentul contract va fi confirmată de reprezentanții prestatorului și ai achizitorului prin proces-verbal de recepție lunar a serviciilor. Încheierea și semnarea fără obiecțiuni a procesului-verbal de recepție lunar de către părți condiționează plata prestației.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_41",
+      "section": "14.1. Pe durata perioadei de valabilitate a contractului părțile au dreptul de a conveni modificarea și/sau completarea ",
+      "text": "14.1. Pe durata perioadei de valabilitate a contractului părțile au dreptul de a conveni modificarea și/sau completarea clauzelor acestuia, fără organizarea unei noi proceduri de atribuire, cu acordul părților, fără a afecta caracterul general al contractului, în limitele dispozițiilor prevăzute de actele normative în vigoare.",
+      "page": 7,
+      "type": "drept"
+    },
+    {
+      "id": "clause_42",
+      "section": "14.2. Modificările contractuale nu trebuie să afecteze, în niciun caz si în niciun fel, rezultatul procedurii de atribui",
+      "text": "14.2. Modificările contractuale nu trebuie să afecteze, în niciun caz si în niciun fel, rezultatul procedurii de atribuire, prin anularea sau diminuarea avantajului competitiv pe baza căruia prestatorul a fost declarat câștigător în cadrul procedurii de atribuire.",
+      "page": 7,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_43",
+      "section": "14.3. Modificarea va produce efecte doar dacă părțile au convenit asupra acestui aspect în scris, prin semnarea unui act",
+      "text": "14.3. Modificarea va produce efecte doar dacă părțile au convenit asupra acestui aspect în scris, prin semnarea unui act adițional.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_44",
+      "section": "14.4. Clauza de modificare a contractului se poate referi la necesitatea extinderii termenului de prestare a serviciilor",
+      "text": "14.4. Clauza de modificare a contractului se poate referi la necesitatea extinderii termenului de prestare a serviciilor sau la orice aspecte ce țin de implementarea contractului, cu respectarea Legii nr. 98/2016.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_45",
+      "section": "14.5. Prelungirea duratei contractului de achiziție publică de servicii, pentru primele 4 luni din anul 2027, se va real",
+      "text": "14.5. Prelungirea duratei contractului de achiziție publică de servicii, pentru primele 4 luni din anul 2027, se va realiza în conformitate cu prevederile art. 221 alin. (1), lit. a) din Legea nr. 98/2016, cu modificările și completările ulterioare, și ale art. 165 din HG 395/2016, cu modificările și completările ulterioare, numai dacă prestatorul în această perioadă îşi menţine nemodificate tarifele stabilite prin prezentul contract.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_46",
+      "section": "15. Evaluarea modificărilor contractului și a circumstanțelor acestora, dacă este cazul",
+      "text": "15. Evaluarea modificărilor contractului și a circumstanțelor acestora, dacă este cazul",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_47",
+      "section": "15.1. Identificarea circumstanțelor care generează modificarea contractului este în sarcina ambelor părți.",
+      "text": "15.1. Identificarea circumstanțelor care generează modificarea contractului este în sarcina ambelor părți.",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_48",
+      "section": "15.2. Modificările contractului se realizează de părți, în cadrul duratei de execuție a contractului, ca urmare a: (i) i",
+      "text": "15.2. Modificările contractului se realizează de părți, în cadrul duratei de execuție a contractului, ca urmare a: (i) identificării, determinării și documentării de soluții juste și necesare, raportat la 7 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 7,
+      "type": "altele"
+    },
+    {
+      "id": "clause_49",
+      "section": "15.3. Fiecare parte are obligația de a notifica cealaltă parte, în cazul în care constată existența unor circumstanțe ca",
+      "text": "15.3. Fiecare parte are obligația de a notifica cealaltă parte, în cazul în care constată existența unor circumstanțe care pot genera modificarea contractului, întârzia sau împiedica prestarea serviciilor.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_50",
+      "section": "15.4. - Achizitorul poate emite dispoziții privind modificarea contractului, cu respectarea clauzelor stipulate la art. ",
+      "text": "15.4. - Achizitorul poate emite dispoziții privind modificarea contractului, cu respectarea clauzelor stipulate la art. 9 - Obligațiile achizitorului, cu respectarea prevederilor contractuale și cu respectarea legii.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_51",
+      "section": "16.1. Prestatorul va lua toate măsurile necesare pentru a preveni ori stopa orice situație care ar putea compromite deru",
+      "text": "16.1. Prestatorul va lua toate măsurile necesare pentru a preveni ori stopa orice situație care ar putea compromite derularea obiectivă și imparțială a contractului. Conflictele de interese pot apărea, în mod special, ca rezultat al intereselor economice, afinităților politice ori de naționalitate, legăturilor de rudenie ori afinitate sau al oricăror alte legături ori interese comune. Orice conflict de interese apărut în timpul derulării contractului trebuie notificat de îndată, în scris, achizitorului.",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_52",
+      "section": "16.2. Prestatorul se va asigura că personalul său nu se află într-o situație care ar putea genera un conflict de interes",
+      "text": "16.2. Prestatorul se va asigura că personalul său nu se află într-o situație care ar putea genera un conflict de interese. Prestatorul va înlocui, imediat și fără vreo compensație din partea achizitorului, orice membru al personalului său, care se regăsește într-o astfel de situație (ex.: înlocuire, încetare, aprobare, deplasare/delegare, orar/program), cu o altă persoană ce îndeplinește condițiile minime stabilite prin prezentul contract.",
+      "page": 8,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_53",
+      "section": "16.3. Prestatorul are obligația de a respecta prevederile legale în domeniul achizițiilor publice cu privire la evitarea",
+      "text": "16.3. Prestatorul are obligația de a respecta prevederile legale în domeniul achizițiilor publice cu privire la evitarea conflictului de interese. Prestatorul nu are dreptul de a angaja sau de a încheia orice alte înțelegeri privind serviciile prestate, direct ori indirect, în scopul îndeplinirii contractului, cu persoane fizice sau juridice care au fost implicate în procesul de verificare/evaluare a solicitărilor de participare/ofertelor depuse în cadrul unei proceduri de atribuire ori angajați/foști angajați ai achizitorului implicați în procedura de atribuire și care a încetat relațiile contractuale ulterior atribuirii contractului de achiziție publică, pe parcursul unei perioade de cel puțin 12 (douăsprezece) luni de la încheierea contractului, sub sancțiunea rezoluțiunii contractului.",
+      "page": 8,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_54",
+      "section": "17.1. Prestatorul/personalul prestatorului va acționa întotdeauna loial și imparțial și ca un consilier de încredere pen",
+      "text": "17.1. Prestatorul/personalul prestatorului va acționa întotdeauna loial și imparțial și ca un consilier de încredere pentru achizitor, conform regulilor și/sau codului de conduită al domeniului său de activitate, precum și cu discreția necesară. 8 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 8,
+      "type": "altele"
+    },
+    {
+      "id": "clause_55",
+      "section": "17.2. În cazul în care prestatorul se oferă să dea/să acorde oricărei persoane mită, bunuri, facilități, comisioane în s",
+      "text": "17.2. În cazul în care prestatorul se oferă să dea/să acorde oricărei persoane mită, bunuri, facilități, comisioane în scopul de a determina sau recompensa îndeplinirea/neîndeplinirea oricăror acte sau fapte în legătură cu prezentul contract sau pentru a favoriza/defavoriza orice persoană în legătură cu prezentul contract, achizitorul poate decide încetarea contractului.",
+      "page": 9,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_56",
+      "section": "17.3. Prestatorul și personalul său vor respecta secretul profesional, pe perioada executării contractului, inclusiv pe ",
+      "text": "17.3. Prestatorul și personalul său vor respecta secretul profesional, pe perioada executării contractului, inclusiv pe perioada oricărei prelungiri a acestuia, precum și după încetarea contractului.",
+      "page": 9,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_57",
+      "section": "18.1. În situații temeinic justificate, părțile pot conveni suspendarea executării contractului.",
+      "text": "18.1. În situații temeinic justificate, părțile pot conveni suspendarea executării contractului.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_58",
+      "section": "18.2. În cazul în care se constată că procedura de atribuire a contractului de prestări de servicii sau executarea contr",
+      "text": "18.2. În cazul în care se constată că procedura de atribuire a contractului de prestări de servicii sau executarea contractului este viciată de erori esențiale, nereguli sau de fraudă, părțile au dreptul să suspende executarea contractului.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_59",
+      "section": "18.3. In cazul suspendării/sistării temporare a prestării serviciilor, durata contractului se va prelungi automat cu per",
+      "text": "18.3. In cazul suspendării/sistării temporare a prestării serviciilor, durata contractului se va prelungi automat cu perioada suspendării/sistării.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_60",
+      "section": "19.1. Forța majoră și cazul fortuit exonerează de răspundere părțile în cazul neexecutării parțiale sau totale a obligaț",
+      "text": "19.1. Forța majoră și cazul fortuit exonerează de răspundere părțile în cazul neexecutării parțiale sau totale a obligațiilor asumate prin prezentul contract, în conformitate cu prevederile art. 1.351 din Codul civil.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_61",
+      "section": "19.3. Partea care invocă forța majoră sau cazul fortuit are obligația să o aducă la cunoștință celeilalte părți, în scri",
+      "text": "19.3. Partea care invocă forța majoră sau cazul fortuit are obligația să o aducă la cunoștință celeilalte părți, în scris, de îndată ce s-a produs evenimentul.",
+      "page": 9,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_62",
+      "section": "19.4. Partea care a invocat forța majoră sau cazul fortuit are obligația să aducă la cunoștința celeilalte părți încetar",
+      "text": "19.4. Partea care a invocat forța majoră sau cazul fortuit are obligația să aducă la cunoștința celeilalte părți încetarea cauzei acesteia de îndată ce evenimentul a luat sfârșit.",
+      "page": 9,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_63",
+      "section": "19.5. Îndeplinirea contractului va fi suspendată în perioada de acțiune a forței majore, dar fără a prejudicia drepturil",
+      "text": "19.5. Îndeplinirea contractului va fi suspendată în perioada de acțiune a forței majore, dar fără a prejudicia drepturile ce li se cuveneau părților până la apariția acesteia.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_64",
+      "section": "19.6. Dacă forța majoră acționează sau se estimează că va acționa o perioadă mai mare de 15 zile, fiecare parte va avea ",
+      "text": "19.6. Dacă forța majoră acționează sau se estimează că va acționa o perioadă mai mare de 15 zile, fiecare parte va avea dreptul să notifice celeilalte părți încetarea de plin drept a prezentului contract, fără ca vreuna din părți să poată pretinde celeilalte daune-interese.",
+      "page": 9,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_65",
+      "section": "20.1. Prezentul contract încetează de drept prin ajungere la termen sau la momentul la care toate obligațiile stabilite ",
+      "text": "20.1. Prezentul contract încetează de drept prin ajungere la termen sau la momentul la care toate obligațiile stabilite în sarcina părților au fost executate.",
+      "page": 9,
+      "type": "altele"
+    },
+    {
+      "id": "clause_66",
+      "section": "20.2. Achizitorul își rezervă dreptul de a rezilia contractul, fără însă a fi afectat dreptul părților de a pretinde pla",
+      "text": "20.2. Achizitorul își rezervă dreptul de a rezilia contractul, fără însă a fi afectat dreptul părților de a pretinde plata unor daune sau alte prejudicii, dacă: (i) prestatorul nu se conformează notificării emise de către achizitor, prin care i se solicită 9 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 9,
+      "type": "drept"
+    },
+    {
+      "id": "clause_67",
+      "section": "20.3. Prestatorul poate rezilia contractul, fără însă a fi afectat dreptul părților de a pretinde plata unor daune sau o",
+      "text": "20.3. Prestatorul poate rezilia contractul, fără însă a fi afectat dreptul părților de a pretinde plata unor daune sau orice alte despăgubiri, în cazul în care; (i) achizitorul a comis erori esențiale, nereguli sau fraude în cadrul procedurii de atribuire a contractului sau în legătură cu executare acestuia, ce au provocat o vătămare prestatorului; (ii) achizitorul nu își îndeplinește obligațiile de plată a serviciilor prestate de prestator, în condițiile stabilite prin prezentul contract.",
+      "page": 10,
+      "type": "altele"
+    },
+    {
+      "id": "clause_68",
+      "section": "20.4. Rezilierea contractului intervine cu efecte depline, fără a mai fi necesară îndeplinirea vreunei formalități preal",
+      "text": "20.4. Rezilierea contractului intervine cu efecte depline, fără a mai fi necesară îndeplinirea vreunei formalități prealabile și fără a fi necesară intervenția unei instanțe judecătorești și/sau arbitrale. 10 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 10,
+      "type": "reziliere"
+    },
+    {
+      "id": "clause_69",
+      "section": "20.5. Prevederile prezentului contract în materia rezilierii contractului se completează cu prevederile în materie ale C",
+      "text": "20.5. Prevederile prezentului contract în materia rezilierii contractului se completează cu prevederile în materie ale Codului civil.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_70",
+      "section": "20.6. În situația rezilierii totale/parțiale din cauza neexecutării/executării parțiale de către prestator a obligațiilo",
+      "text": "20.6. În situația rezilierii totale/parțiale din cauza neexecutării/executării parțiale de către prestator a obligațiilor contractuale, acesta va datora achizitorului daune-interese cu titlu de clauză penală în cuantum egal cu valoarea obligațiilor contractuale neexecutate.",
+      "page": 11,
+      "type": "penalitate"
+    },
+    {
+      "id": "clause_71",
+      "section": "20.7. Achizitorul își rezervă dreptul de a denunța unilateral contractul de prestare a serviciilor, în cel mult 15 zile ",
+      "text": "20.7. Achizitorul își rezervă dreptul de a denunța unilateral contractul de prestare a serviciilor, în cel mult 15 zile de la apariția unor circumstanțe care nu au putut fi prevăzute la data încheierii contractului, cu condiția notificării prestatorului cu cel puțin 3 zile înainte de momentul denunțării.",
+      "page": 11,
+      "type": "drept"
+    },
+    {
+      "id": "clause_72",
+      "section": "21.1. În cazul deschiderii unei proceduri generale de insolvență împotriva prestatorului, acesta are obligația de a noti",
+      "text": "21.1. În cazul deschiderii unei proceduri generale de insolvență împotriva prestatorului, acesta are obligația de a notifica achizitorul în termen de 3 (trei) zile de la deschiderea procedurii.",
+      "page": 11,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_73",
+      "section": "21.2. Prestatorul are obligația de a prezenta achizitorului, în termen de 30 (treizeci) de zile de la notificare, o anal",
+      "text": "21.2. Prestatorul are obligația de a prezenta achizitorului, în termen de 30 (treizeci) de zile de la notificare, o analiză detaliată referitoare la incidența deschiderii procedurii generale de insolvență asupra contractului și asupra prestărilor și de a propune măsuri, acționând ca un prestator diligent.",
+      "page": 11,
+      "type": "obligatie"
+    },
+    {
+      "id": "clause_74",
+      "section": "21.3. În cazul în care prestatorul intră în stare de faliment, în proces de lichidare sau se află într-o situație care p",
+      "text": "21.3. În cazul în care prestatorul intră în stare de faliment, în proces de lichidare sau se află într-o situație care produce efecte similare, prestatorul este obligat să acționeze în același fel cum este stipulat la clauzele 26.1 și 26.2 din prezentul contract.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_75",
+      "section": "21.4. Nicio astfel de măsură propusă conform celor stipulate la clauzele 26.2 și 26.3 din prezentul contract, nu poate f",
+      "text": "21.4. Nicio astfel de măsură propusă conform celor stipulate la clauzele 26.2 și 26.3 din prezentul contract, nu poate fi aplicată, dacă nu este acceptată în scris de achizitor.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_76",
+      "section": "22. Limba contractului Limba prezentului contract și a tuturor comunicărilor scrise va fi limba oficială a statului româ",
+      "text": "22. Limba contractului Limba prezentului contract și a tuturor comunicărilor scrise va fi limba oficială a statului român, respectiv limba română.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_77",
+      "section": "23. Legea aplicabilă Legea aplicabilă prezentului contract este legea română, contractul urmând a fi interpretat potrivi",
+      "text": "23. Legea aplicabilă Legea aplicabilă prezentului contract este legea română, contractul urmând a fi interpretat potrivit acestei legi.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_78",
+      "section": "24.1. Părțile vor depune toate eforturile pentru a rezolva pe cale amiabilă orice neînțelegere sau divergențe care se po",
+      "text": "24.1. Părțile vor depune toate eforturile pentru a rezolva pe cale amiabilă orice neînțelegere sau divergențe care se pot ivi între ele în cadrul sau în legătură cu executarea contractului.",
+      "page": 11,
+      "type": "altele"
+    },
+    {
+      "id": "clause_79",
+      "section": "24.2. Dacă disputa nu a fost astfel soluționată și părțile au, în continuare, opinii divergente în legătură cu sau în în",
+      "text": "24.2. Dacă disputa nu a fost astfel soluționată și părțile au, în continuare, opinii divergente în legătură cu sau în îndeplinirea contractului, acestea trebuie să se notifice reciproc și în scris, în privința poziției lor asupra aspectului în dispută, precum și cu privire la soluția pe care o întrevăd pentru rezolvarea ei. 11 ROMÂNIA, București, Bd. Libertăți, nr.14, Sector 5 www.mpublic.ro",
+      "page": 11,
+      "type": "obligatie"
+    }
+  ]
+}
