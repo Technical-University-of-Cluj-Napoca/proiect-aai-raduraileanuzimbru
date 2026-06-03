@@ -3,3 +3,14 @@ pdfplumber
 streamlit
 python-dotenv
 pandas
+openai
+tiktoken
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+chromadb
+matplotlib
+numpy
+ragas
+datasets

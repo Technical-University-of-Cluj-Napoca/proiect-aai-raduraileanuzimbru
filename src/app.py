@@ -9,6 +9,7 @@ import pandas as pd
 import streamlit as st
 
 from src.agents.parser_agent import DocumentParserAgent
+from src.agents.retrieval_agent import RAGRetrievalAgent
 
 
 st.set_page_config(
@@ -26,9 +27,17 @@ def render_sidebar_upload():
         type=["pdf"],
     )
 
+    threshold = st.sidebar.slider(
+        "Threshold retrieval",
+        min_value=0.0,
+        max_value=1.0,
+        value=0.10,
+        step=0.05,
+    )
+
     analyze_clicked = st.sidebar.button("Analizează contractul")
 
-    return uploaded_file, analyze_clicked
+    return uploaded_file, analyze_clicked, threshold
 
 
 def render_document_metadata(parsed_doc):
@@ -90,6 +99,52 @@ def render_clauses_table(parsed_doc):
 
     st.dataframe(pd.DataFrame(rows), use_container_width=True)
 
+def render_retrieval_results(parsed_doc, context_map):
+    st.subheader("Surse juridice recuperate prin RAG")
+
+    if not context_map:
+        st.info("Nu există rezultate RAG.")
+        return
+
+    rows = []
+
+    for clause in parsed_doc.clauses:
+        results = context_map.get(clause.id, [])
+
+        best_score = results[0].score if results else 0.0
+
+        rows.append(
+            {
+                "Clauza": clause.id,
+                "Tip": clause.type.value,
+                "Pagina": clause.page,
+                "Surse recuperate": len(results),
+                "Cel mai bun scor": round(best_score, 3),
+            }
+        )
+
+    st.dataframe(pd.DataFrame(rows), use_container_width=True)
+
+    st.markdown("### Detalii surse pe clauze")
+
+    for clause in parsed_doc.clauses[:20]:
+        results = context_map.get(clause.id, [])
+
+        with st.expander(
+            f"{clause.id} | {clause.type.value} | pagina {clause.page} | {len(results)} surse"
+        ):
+            st.write("**Text clauză:**")
+            st.write(clause.text)
+
+            if not results:
+                st.warning("Nu au fost găsite surse peste threshold.")
+                continue
+
+            for idx, result in enumerate(results, start=1):
+                st.markdown(f"**Sursa {idx} — scor {result.score:.3f}**")
+                st.write(result.source)
+                st.write(result.text[:1200])
+                st.divider()
 
 def save_uploaded_file(uploaded_file) -> str:
     temp_dir = Path(tempfile.gettempdir()) / "legal_contract_analyzer"
@@ -102,7 +157,7 @@ def save_uploaded_file(uploaded_file) -> str:
 
 
 def main():
-    uploaded_file, analyze_clicked = render_sidebar_upload()
+    uploaded_file, analyze_clicked, threshold = render_sidebar_upload()
 
     st.title("Analiza contractelor juridice")
 
@@ -121,7 +176,27 @@ def main():
             parser.save_parser_stats(parsed_doc, f"logs/{output_name}_parser_stats.json")
 
         st.session_state["parsed_doc"] = parsed_doc
-        st.success("Document parsat cu succes.")
+
+        with st.spinner("Se caută surse juridice relevante..."):
+            retrieval_agent = RAGRetrievalAgent(
+                persist_directory="vectorstore",
+                threshold=threshold,
+                k=5,
+            )
+
+            context_map = {}
+
+            for clause in parsed_doc.clauses:
+                context_map[clause.id] = retrieval_agent.retrieve(
+                    clause=clause,
+                    k=5,
+                    threshold=threshold,
+                )
+
+        st.session_state["context_map"] = context_map
+        st.session_state["retrieval_threshold"] = threshold
+
+        st.success("Document parsat și context juridic recuperat cu succes.")
 
     if "parsed_doc" in st.session_state:
         parsed_doc = st.session_state["parsed_doc"]
@@ -129,6 +204,12 @@ def main():
         render_document_metadata(parsed_doc)
         render_sections(parsed_doc)
         render_clauses_table(parsed_doc)
+
+        if "context_map" in st.session_state:
+            render_retrieval_results(
+                parsed_doc,
+                st.session_state["context_map"],
+            )
 
 
 if __name__ == "__main__":

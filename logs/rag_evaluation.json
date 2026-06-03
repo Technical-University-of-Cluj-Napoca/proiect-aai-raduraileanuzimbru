@@ -1,0 +1,300 @@
+{
+  "threshold": 0.1,
+  "k": 5,
+  "global_mean_retrieval_score": 0.533,
+  "target_min_score": 0.3,
+  "passed": true,
+  "evaluations": [
+    {
+      "question": "Ce prevederi sunt relevante pentru penalități de întârziere în contractele de achiziții publice?",
+      "clause_type": "penalitate",
+      "mean_retrieval_score": 0.587,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_proiectare_si_executie_anap | corpus\\contracte\\model_contract_proiectare_si_executie_anap.pdf | chunk 69",
+          "score": 0.605
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 117",
+          "score": 0.604
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 31",
+          "score": 0.591
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 122",
+          "score": 0.57
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 103",
+          "score": 0.566
+        }
+      ]
+    },
+    {
+      "question": "Ce obligații de informare există pentru prelucrarea datelor personale conform GDPR?",
+      "clause_type": "date_personale",
+      "mean_retrieval_score": 0.563,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "anpc/anpc_ghid_directiva_93_13_clauze_abuzive | corpus\\anpc\\anpc_ghid_directiva_93_13_clauze_abuzive.pdf | chunk 321",
+          "score": 0.569
+        },
+        {
+          "source": "gdpr/gdpr_regulament_2016_679_ro | corpus\\gdpr\\gdpr_regulament_2016_679_ro.pdf | chunk 321",
+          "score": 0.569
+        },
+        {
+          "source": "anpc/anpc_legea_193_2000_clauze_abuzive | corpus\\anpc\\anpc_legea_193_2000_clauze_abuzive.pdf | chunk 48",
+          "score": 0.56
+        },
+        {
+          "source": "anpc/anpc_legea_193_2000_clauze_abuzive | corpus\\anpc\\anpc_legea_193_2000_clauze_abuzive.pdf | chunk 33",
+          "score": 0.559
+        },
+        {
+          "source": "anpc/anpc_legea_193_2000_clauze_abuzive | corpus\\anpc\\anpc_legea_193_2000_clauze_abuzive.pdf | chunk 24",
+          "score": 0.559
+        }
+      ]
+    },
+    {
+      "question": "Cum trebuie definită forța majoră într-un contract?",
+      "clause_type": "forta_majora",
+      "mean_retrieval_score": 0.549,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 36",
+          "score": 0.615
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 6",
+          "score": 0.58
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 3",
+          "score": 0.551
+        },
+        {
+          "source": "contracte/model_contract_prestari_servicii_mpublic | corpus\\contracte\\model_contract_prestari_servicii_mpublic.pdf | chunk 25",
+          "score": 0.505
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 59",
+          "score": 0.495
+        }
+      ]
+    },
+    {
+      "question": "Când poate deveni problematică o clauză de reziliere unilaterală?",
+      "clause_type": "reziliere",
+      "mean_retrieval_score": 0.419,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 33",
+          "score": 0.428
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 61",
+          "score": 0.423
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 62",
+          "score": 0.418
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 35",
+          "score": 0.414
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 34",
+          "score": 0.413
+        }
+      ]
+    },
+    {
+      "question": "Ce riscuri există pentru clauzele de confidențialitate cu durată nedefinită?",
+      "clause_type": "confidentialitate",
+      "mean_retrieval_score": 0.465,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 120",
+          "score": 0.488
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 49",
+          "score": 0.487
+        },
+        {
+          "source": "anpc/anpc_legea_193_2000_clauze_abuzive | corpus\\anpc\\anpc_legea_193_2000_clauze_abuzive.pdf | chunk 85",
+          "score": 0.461
+        },
+        {
+          "source": "anpc/anpc_ghid_directiva_93_13_clauze_abuzive | corpus\\anpc\\anpc_ghid_directiva_93_13_clauze_abuzive.pdf | chunk 265",
+          "score": 0.445
+        },
+        {
+          "source": "gdpr/gdpr_regulament_2016_679_ro | corpus\\gdpr\\gdpr_regulament_2016_679_ro.pdf | chunk 265",
+          "score": 0.445
+        }
+      ]
+    },
+    {
+      "question": "Ce reguli se aplică garanției de bună execuție în achiziții publice?",
+      "clause_type": "obligatie",
+      "mean_retrieval_score": 0.604,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_proiectare_si_executie_anap | corpus\\contracte\\model_contract_proiectare_si_executie_anap.pdf | chunk 56",
+          "score": 0.625
+        },
+        {
+          "source": "contracte/model_contract_prestari_servicii_mpublic | corpus\\contracte\\model_contract_prestari_servicii_mpublic.pdf | chunk 17",
+          "score": 0.617
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 37",
+          "score": 0.597
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 15",
+          "score": 0.592
+        },
+        {
+          "source": "contracte/model_contract_executie_anap | corpus\\contracte\\model_contract_executie_anap.pdf | chunk 47",
+          "score": 0.587
+        }
+      ]
+    },
+    {
+      "question": "Ce condiții trebuie respectate pentru modificarea contractului de achiziție publică?",
+      "clause_type": "altele",
+      "mean_retrieval_score": 0.64,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 382",
+          "score": 0.668
+        },
+        {
+          "source": "contracte/model_contract_executie_anap | corpus\\contracte\\model_contract_executie_anap.pdf | chunk 62",
+          "score": 0.636
+        },
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 378",
+          "score": 0.636
+        },
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 386",
+          "score": 0.63
+        },
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 203",
+          "score": 0.63
+        }
+      ]
+    },
+    {
+      "question": "Ce reguli sunt relevante pentru cesiunea contractului?",
+      "clause_type": "altele",
+      "mean_retrieval_score": 0.525,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 388",
+          "score": 0.541
+        },
+        {
+          "source": "legi/suport_curs_achizitii_publice_anap | corpus\\legi\\suport_curs_achizitii_publice_anap.pdf | chunk 64",
+          "score": 0.534
+        },
+        {
+          "source": "legi/legea_98_2016_achizitii_publice | corpus\\legi\\legea_98_2016_achizitii_publice.pdf | chunk 320",
+          "score": 0.519
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 6",
+          "score": 0.516
+        },
+        {
+          "source": "contracte/model_contract_prestari_servicii_mpublic | corpus\\contracte\\model_contract_prestari_servicii_mpublic.pdf | chunk 19",
+          "score": 0.516
+        }
+      ]
+    },
+    {
+      "question": "Ce prevederi sunt relevante pentru răspunderea contractuală?",
+      "clause_type": "obligatie",
+      "mean_retrieval_score": 0.485,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 6",
+          "score": 0.492
+        },
+        {
+          "source": "contracte/model_contract_achizitie_asistenta_timisoara | corpus\\contracte\\model_contract_achizitie_asistenta_timisoara.pdf | chunk 63",
+          "score": 0.488
+        },
+        {
+          "source": "contracte/model_contract_proiectare_si_executie_anap | corpus\\contracte\\model_contract_proiectare_si_executie_anap.pdf | chunk 4",
+          "score": 0.487
+        },
+        {
+          "source": "contracte/model_contract_prestari_servicii_mpublic | corpus\\contracte\\model_contract_prestari_servicii_mpublic.pdf | chunk 19",
+          "score": 0.478
+        },
+        {
+          "source": "contracte/model_contract_proiectare_anap | corpus\\contracte\\model_contract_proiectare_anap.pdf | chunk 39",
+          "score": 0.478
+        }
+      ]
+    },
+    {
+      "question": "Ce reguli sunt relevante pentru soluționarea litigiilor și arbitraj?",
+      "clause_type": "altele",
+      "mean_retrieval_score": 0.49,
+      "results_count": 5,
+      "passed": true,
+      "sources": [
+        {
+          "source": "contracte/model_contract_prestari_servicii_mpublic | corpus\\contracte\\model_contract_prestari_servicii_mpublic.pdf | chunk 32",
+          "score": 0.523
+        },
+        {
+          "source": "contracte/model_contract_executie_anap | corpus\\contracte\\model_contract_executie_anap.pdf | chunk 87",
+          "score": 0.488
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 24",
+          "score": 0.487
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 44",
+          "score": 0.479
+        },
+        {
+          "source": "legi/legea_101_2016_remedii_achizitii_publice | corpus\\legi\\legea_101_2016_remedii_achizitii_publice.pdf | chunk 21",
+          "score": 0.473
+        }
+      ]
+    }
+  ],
+  "comment": "Evaluare simplificata a retrieval-ului pe 10 intrebari juridice. Scorul reprezinta media scorurilor documentelor recuperate. Pragul este setat la 0.3 deoarece similarity_search_with_score foloseste distante transformate prin formula score = 1 / (1 + distance)."
+}
