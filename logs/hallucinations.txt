@@ -1,0 +1,29 @@
+# Analiza halucinatii — Risk Assessment Agent
+Metodologie: o referinta e considerata posibila halucinatie daca nu apare
+ca substring in textul niciunui chunk recuperat din corpus.
+
+[POSIBILA HALUCINATIE] Clauza clause_13
+  Referinta: Sursa exacta din context: contracte/model_contract_achizitie_asistenta_timisoara
+  Motivatie: niciun cuvant cheie din referinta nu apare in contextul recuperat.
+
+[POSIBILA HALUCINATIE] Clauza clause_14
+  Referinta: Art. 17.1, Art. 18.1(1) din contextul juridic
+  Motivatie: niciun cuvant cheie din referinta nu apare in contextul recuperat.
+
+[POSIBILA HALUCINATIE] Clauza clause_15
+  Referinta: Sursa exacta din context: articol, document
+  Motivatie: niciun cuvant cheie din referinta nu apare in contextul recuperat.
+
+[POSIBILA HALUCINATIE] Clauza clause_21
+  Referinta: Art. 25.1, 25.2 din contextul juridic
+  Motivatie: niciun cuvant cheie din referinta nu apare in contextul recuperat.
+
+[POSIBILA HALUCINATIE] Clauza clause_22
+  Referinta: Sursa exacta din context: articol, document
+  Motivatie: niciun cuvant cheie din referinta nu apare in contextul recuperat.
+
+
+---
+Total referinte analizate: 14
+Posibile halucinatii detectate: 5
+Rata estimata: 35.7%

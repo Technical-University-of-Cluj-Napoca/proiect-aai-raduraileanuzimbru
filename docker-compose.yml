@@ -1,0 +1,14 @@
+services:
+  legal-contract-analyzer:
+    build: .
+    container_name: legal-contract-analyzer
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./corpus:/app/corpus
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./vectorstore:/app/vectorstore
+    restart: unless-stopped
