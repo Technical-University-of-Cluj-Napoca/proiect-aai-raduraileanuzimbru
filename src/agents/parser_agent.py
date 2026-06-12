@@ -16,10 +16,7 @@ from src.tools.pdf_tools import extract_pages_text, get_page_count
 
 class DocumentParserAgent:
     def parse(self, pdf_path: str) -> ParsedDocumentDTO:
-        """
-        Primeste calea catre un PDF si returneaza documentul structurat.
-        Parserul este facut robust: daca nu gaseste un camp, pune None sau lista goala.
-        """
+
         pages = extract_pages_text(pdf_path)
         page_count = get_page_count(pdf_path)
         full_text = "\n".join(page["text"] for page in pages)

@@ -1,0 +1,233 @@
+{
+  "clause_1": {
+    "clause_id": "clause_1",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_2": {
+    "clause_id": "clause_2",
+    "risk_level": "NECUNOSCUT",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_3": {
+    "clause_id": "clause_3",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [
+      "Art. 11.1. Prestatorul are obligaţia de a presta, in conditiile legislatiei romane, serviciile prevăzute în Contract cu profesionalismul şi promptitudinea cuvenite angajamentului asumat",
+      "Art. 8.1 Serviciile prestate în baza contractului vor respecta standardele, normativele şi legislaţia în vigoare la data derularii contractului."
+    ],
+    "context_was_empty": false
+  },
+  "clause_4": {
+    "clause_id": "clause_4",
+    "risk_level": "NECUNOSCUT",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_5": {
+    "clause_id": "clause_5",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_6": {
+    "clause_id": "clause_6",
+    "risk_level": "NECUNOSCUT",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_7": {
+    "clause_id": "clause_7",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Termenul de plată de 10 zile poate fi considerat insuficient în raport cu termenul maxim de 30 de zile prevăzut în legislație.",
+      "Ambiguitatea privind acceptarea raportului de activitate poate genera litigii între părți."
+    ],
+    "references": [
+      "Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligaţiilor de plată a unor sume de bani"
+    ],
+    "context_was_empty": false
+  },
+  "clause_8": {
+    "clause_id": "clause_8",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_9": {
+    "clause_id": "clause_9",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_10": {
+    "clause_id": "clause_10",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_11": {
+    "clause_id": "clause_11",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_12": {
+    "clause_id": "clause_12",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_13": {
+    "clause_id": "clause_13",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Ambiguitatea referitoare la 'limitele de securitate impuse de politicile interne' poate genera litigii legate de interpretarea acestor limite."
+    ],
+    "references": [
+      "Sursa exacta din context: contracte/model_contract_achizitie_asistenta_timisoara"
+    ],
+    "context_was_empty": false
+  },
+  "clause_14": {
+    "clause_id": "clause_14",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Ambiguitatea termenului 'cerințele inițiale' poate genera litigii privind interpretarea acestora.",
+      "Lipsa detaliilor despre modalitatea de solicitare a modificărilor poate duce la neînțelegeri între părți."
+    ],
+    "references": [
+      "Art. 17.1, Art. 18.1(1) din contextul juridic"
+    ],
+    "context_was_empty": false
+  },
+  "clause_15": {
+    "clause_id": "clause_15",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [
+      "Sursa exacta din context: articol, document"
+    ],
+    "context_was_empty": false
+  },
+  "clause_16": {
+    "clause_id": "clause_16",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Perioada de 3 ani pentru obligația de confidențialitate poate fi considerată excesivă în raport cu natura informațiilor confidențiale și cu legislația aplicabilă.",
+      "Ambiguitatea în ceea ce privește tipurile de informații care sunt considerate confidențiale și modul în care acestea sunt protejate."
+    ],
+    "references": [
+      "Sursa exacta din context: articol, document"
+    ],
+    "context_was_empty": false
+  },
+  "clause_17": {
+    "clause_id": "clause_17",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [
+      "art. 4 din Legea 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante"
+    ],
+    "context_was_empty": false
+  },
+  "clause_18": {
+    "clause_id": "clause_18",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Ambiguitate în definirea 'neexecutării culpabile' și a modului de reținere a onorariului",
+      "Posibilitatea de litigii legate de interpretarea clauzei de reținere a onorariului"
+    ],
+    "references": [
+      "art.8 din Legea 72/2013"
+    ],
+    "context_was_empty": false
+  },
+  "clause_19": {
+    "clause_id": "clause_19",
+    "risk_level": "NECUNOSCUT",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_20": {
+    "clause_id": "clause_20",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Clauza de denunțare unilaterală fără penalități poate crea ambiguități în interpretarea obligațiilor părților și poate genera litigii.",
+      "Lipsa penalităților poate afecta echilibrul contractual, favorizând o parte în detrimentul celeilalte."
+    ],
+    "references": [
+      "Legea nr. 98/2016, Articolul 224, Capitolul VII"
+    ],
+    "context_was_empty": false
+  },
+  "clause_21": {
+    "clause_id": "clause_21",
+    "risk_level": "RIDICAT",
+    "issues": [
+      "Clauza prevede o reziliere de drept prin pact comisoriu, ceea ce poate crea un dezechilibru contractual sever, având în vedere că nu se menționează o procedură de remediere sau un termen rezonabil pentru corectarea neexecutării.",
+      "Termenul de 5 zile pentru notificare este scurt și poate fi considerat nerezonabil, lăsând puțin timp pentru remedierea situației."
+    ],
+    "references": [
+      "Art. 25.1, 25.2 din contextul juridic"
+    ],
+    "context_was_empty": false
+  },
+  "clause_22": {
+    "clause_id": "clause_22",
+    "risk_level": "MEDIU",
+    "issues": [
+      "Termenul de notificare de 5 zile poate fi considerat insuficient în raport cu alte surse care menționează termene mai lungi, ceea ce poate genera litigii."
+    ],
+    "references": [
+      "Sursa exacta din context: articol, document"
+    ],
+    "context_was_empty": false
+  },
+  "clause_23": {
+    "clause_id": "clause_23",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [
+      "Sursa exacta din context: articol, document"
+    ],
+    "context_was_empty": false
+  },
+  "clause_24": {
+    "clause_id": "clause_24",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [
+      "Legea nr. 98/2016"
+    ],
+    "context_was_empty": false
+  },
+  "clause_25": {
+    "clause_id": "clause_25",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  },
+  "clause_26": {
+    "clause_id": "clause_26",
+    "risk_level": "CONFORM",
+    "issues": [],
+    "references": [],
+    "context_was_empty": false
+  }
+}
